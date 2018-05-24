@@ -22,13 +22,13 @@ We have two submission tracks: short papers and visual case studies.
 
 ### Papers
 
-We invite research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (NOT the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 min.) may also be submitted. The papers will be juried by the organizers and reviewers, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the conference (even if only for the workshop). Registration information will be available on the [IEEE VIS website](http://ieeevis.org/year/2018/welcome).
+We invite research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (NOT the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 min.) may also be submitted. The papers will be juried by the organizers and reviewers, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the workshop. Registration information will be available on the [IEEE VIS website](http://ieeevis.org/year/2018/welcome).
   
-### Visual Case Studies
+### Visual Case Studies (REVISE THIS)
 
 We invite both late-breaking work and contributions in this area from other research domains to submit extended abstracts between 2 and 4 pages in length.  All submissions must be formatted according to the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (i.e., NOT the journal style template that full papers use).  Extended abstracts are to be submitted online through the Precision Conference System (additional details TBA).  All abstracts accepted for presentation at the workshop will be published on IEEE Xplore and linked from the workshop website.  All abstracts should contain full author names and affiliations.  If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The abstracts will be juried by the organizers and selected external reviewers and will be chosen according to relevance, quality, and likelihood that they will stimulate and contribute to the discussion. At least one author of each accepted poster needs to register  for the conference (even if only for the workshop). Registration information will be available on the [IEEE VIS website](http://ieeevis.org/year/2018/welcome).
   
-### Important Dates
+### Important Dates (REVISE THIS)
 
 Submission deadline:  June 30, 2018 
 
@@ -40,7 +40,13 @@ Speaker Schedule Available:  September 15, 2018
 
 Workshop:  October 21 or 22, 2018
 
-## ORGANIZERS
+## ORGANIZERS (IMPROVE THIS)
+
+Ben Watson
+
+Robert Kosara
+
+## PROGRAM COMMITTEE (REVISE THIS)
 
 John Wenskovitch, Virginia Tech (jw87@vt.edu)
 
