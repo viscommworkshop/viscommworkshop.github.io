@@ -1,10 +1,10 @@
 ## CALL FOR PAPERS
 
-**Date and Location:** [October 21 or 22, 2018 in Berlin, Germany](https://ieeevis.org/year/2018/welcome)
+**Date and Location:** October 21 or 22, 2018 at [IEEE VIS in Berlin, Germany](https://ieeevis.org/year/2018/welcome)
 
-While visualization research is still largely focused on data analysis, most people's experience with visualization is in the form of communication and presentation. The New York Times and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
+While visualization research is still largely focused on data analysis, most people's experience with visualization is in the form of communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE Visualization](https://ieeevis.org/) and write academic manuscripts, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
+The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](https://ieeevis.org/) and write academic manuscripts, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
 
 ## WORKSHOP TOPICS
 
