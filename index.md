@@ -11,11 +11,11 @@ The VisComm workshop will bring together practitioners and researchers from a br
 VisComm seeks contributions addressing questions inclduing: 
 
 - How should visualization adapt to the more diverse audience for communication, which includes a wider range of demographics, visualization literacy, etc. than analysis?
-- When is a communicative visualization successful, and how do we measure that This might include web analytics, eye tracking, or even galvanic skin response, etc.
-- How can practitioners build visualizations that communicate successfully, and are there visualization techniques (like “chart junk”) that are particularly effective in that role? 
+- When is a communicative visualization successful, and how do we measure that? This might include web analytics, eye tracking, or even galvanic skin response, etc.
+- How can practitioners build visualizations that communicate successfully? Are there visualization techniques (like “chart junk”) that are particularly effective in that role? 
 - Are there models that can guide and guide effective communicative visualization, possibly derived from theories of aesthetics, memory, metaphor, or persuasion?
-- What application areas are still emerging, and how might they shape communicative visualization?
-- What sorts of tools do we need to help practitioners build communicative visualizations?
+- Which application areas are still emerging for communicative visualization, and how might they shape it?
+- What tools do we need to help practitioners build communicative visualizations?
 
 We are also looking for visual case studies that demonstrate the success or failure of projects in data journalism, public health, etc. The goal is to see a broad range of examples and learn about the reasoning behind design decisions.
 
@@ -25,7 +25,7 @@ We have two submission tracks: short papers and visual case studies.
 
 ### Short Papers
 
-We invite submission of traditional research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (NOT the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 min.) may also be submitted.
+We invite submission of traditional research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (not the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 min.) may also be submitted.
 
 The papers will be juried by the organizers and program committee, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the workshop, and present its contents. Registration information will be available on the [IEEE VIS website](https://ieeevis.org/year/2018/welcome).
   
