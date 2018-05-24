@@ -51,9 +51,9 @@ Workshop:  October 21 or 22, 2018
 
 ## ORGANIZERS
 
-Ben Watson, North Carolina State University (bwatson@ncsu.edu)
+[Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (bwatson@ncsu.edu)
 
-Robert Kosara, Tableau Research (rkosara@tableau.com)
+[Robert Kosara](https://eagereyes.org/), Tableau Research (rkosara@tableau.com)
 
 ## PROGRAM COMMITTEE
 
