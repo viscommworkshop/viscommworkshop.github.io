@@ -2,18 +2,19 @@
 
 **Date and Location:** October 21 or 22, 2018 in Berlin, Germany
 
-Visualization recently entered the mainstream, and is now a form of communication in news media, social networks and presentations. The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. To encourage participation from journalists, designers and others that do not typically attend IEEE Visualization and write academic manuscripts, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
+While visualization research is still largely focused on data analysis, most people's experience with visualization is in the form of communication and presentation. The New York Times and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
+
+The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE Visualization](https://ieeevis.org/) and write academic manuscripts, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
 
 ## WORKSHOP TOPICS
 
-VisComm seeks contributions addressing the following types of questions: 
+VisComm seeks contributions addressing the following types of questions (this list is not meant to be exhaustive): 
 
-- How should visualization adapt to the more diverse audience for communicative visualization, which varies in demographics, visualization literacy and more? 
-- New communicative visualization applications have emerged, including behavioral challenges in health and sustainability. How should visualization change to serve them?
-- What applications are still emerging, and how might they shape communicative visualization?
-- When is a communicative visualization successful, and how can new measures such as web analytics, eye tracking and galvanic skin response help us gauge that success? 
-- How can practitioners build visualizations that communicate successfully, and are there visualization techniques (perhaps “chart junk”) that are particularly effective in that role? 
-- Are there models, possibly derived from theories of aesthetics, memory, metaphor or persuasion, that can guide and guide effective communicative visualization?
+- How should visualization adapt to the more diverse audience for communication, which includes a wider range of demographics, visualization literacy, etc. than analysis?
+- When is a communicative visualization successful, and how do we measure that This might include web analytics, eye tracking, or even galvanic skin response, etc.
+- How can practitioners build visualizations that communicate successfully, and are there visualization techniques (like “chart junk”) that are particularly effective in that role? 
+- Are there models that can guide and guide effective communicative visualization, possibly derived from theories of aesthetics, memory, metaphor, or persuasion?
+- What application areas are still emerging, and how might they shape communicative visualization?
 - What sorts of tools do we need to help practitioners build communicative visualizations?
 
 ## SUBMISSIONS
@@ -46,7 +47,7 @@ Ben Watson, North Carolina State University (bwatson@ncsu.edu)
 
 Robert Kosara, Tableau Research (rkosara@tableau.com)
 
-## CURRENT PROGRAM COMMITTEE
+## PROGRAM COMMITTEE
 
 Danyel Fisher, Microsoft Research
 
@@ -62,3 +63,4 @@ Ron Rensink, University British Columbia
 
 Noeska Smit, University of Bergen (Norway)
 
+(More names to be added.)
