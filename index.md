@@ -17,7 +17,7 @@ VisComm seeks contributions addressing questions including:
 - What tools do practitioners need to help them build visualizations for communication? What are typical practioner workflows, and which parts of them are most challenging? 
 - Which application areas are still emerging for communicative visualization, and how should visualization respond to them?
 
-We particularly encourage contributors to address and illustrate issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions.
+We particularly encourage contributors to address and illustrate issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions and process.
 
 ## SUBMISSIONS
 
