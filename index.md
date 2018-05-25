@@ -4,11 +4,11 @@
 
 While visualization research is still largely focused on data analysis, most people's experience with visualization is in the form of communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](https://ieeevis.org/) and write academic manuscripts, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
+The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](https://ieeevis.org/) and write academic manuscripts. Accordingly, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
 
 ## WORKSHOP TOPICS
 
-VisComm seeks contributions addressing questions inclduing: 
+VisComm seeks contributions addressing questions including: 
 
 - How should visualization adapt to the more diverse audience for communication, which includes a wider range of demographics, visualization literacy, etc. than analysis?
 - When is a communicative visualization successful, and how do we measure that? This might include web analytics, eye tracking, or even galvanic skin response, etc.
@@ -17,7 +17,7 @@ VisComm seeks contributions addressing questions inclduing:
 - Which application areas are still emerging for communicative visualization, and how might they shape it?
 - What tools do we need to help practitioners build communicative visualizations?
 
-We are also looking for visual case studies that demonstrate the success or failure of projects in data journalism, public health, etc. The goal is to see a broad range of examples and learn about the reasoning behind design decisions.
+We encourage contributors to address issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions.
 
 ## SUBMISSIONS
 
@@ -25,7 +25,7 @@ We have two submission tracks: short papers and visual case studies.
 
 ### Short Papers
 
-We invite submission of traditional research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (not the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 min.) may also be submitted.
+We invite submission of traditional research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (not the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 minutes) may also be submitted.
 
 The papers will be juried by the organizers and program committee, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the workshop, and present its contents. Registration information will be available on the [IEEE VIS website](https://ieeevis.org/year/2018/welcome).
   
