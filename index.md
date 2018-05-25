@@ -10,14 +10,14 @@ The VisComm workshop will bring together practitioners and researchers from a br
 
 VisComm seeks contributions addressing questions including: 
 
-- How should visualization adapt to the more diverse audience for communication, which includes a wider range of demographics, visualization literacy, etc. than analysis?
-- When is a communicative visualization successful, and how do we measure that? This might include web analytics, eye tracking, or even galvanic skin response, etc.
-- How can practitioners build visualizations that communicate successfully? Are there visualization techniques (like “chart junk”) that are particularly effective in that role? 
-- Are there models that can guide and guide effective communicative visualization, possibly derived from theories of aesthetics, memory, metaphor, or persuasion?
-- Which application areas are still emerging for communicative visualization, and how might they shape it?
-- What tools do we need to help practitioners build communicative visualizations?
+- How should visualization adapt to its new, more diverse audience? Visualization for communication addresses an audience that is much more varied in demographics and literacy than visualization for analysis.
+- When do visualizations communicate successfuly, and how can we measure that success? This might include web analytics, eye tracking, or even galvanic skin response.
+- How can practitioners build visualizations that communicate successfully? Are there models that can guide effective communicative visualization, possibly derived from theories of aesthetics, memory, metaphor, or persuasion?
+- Are there certain visualization techniques (like “chart junk”) that are particularly helpful for communication? How well do they work in concert?  
+- What tools do practitioners need to help them build visualizations for communication? What are typical practioner workflows, and which parts of them are most challenging? 
+- Which application areas are still emerging for communicative visualization, and how should visualization respond to them?
 
-We encourage contributors to address issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions.
+We particularly encourage contributors to address and illustrate issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions.
 
 ## SUBMISSIONS
 
