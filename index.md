@@ -1,6 +1,6 @@
 ## CALL FOR PAPERS
 
-**Date and Location:** October 21 or 22, 2018 at [IEEE VIS in Berlin, Germany](https://ieeevis.org/year/2018/welcome)
+**Date and Location:** 9am - 12:40pm, October 21, 2018 at [IEEE VIS in Berlin, Germany](https://ieeevis.org/year/2018/welcome)
 
 While visualization research is still largely focused on data analysis, most people's experience with visualization is in the form of communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
@@ -25,21 +25,21 @@ We have two submission tracks: short papers and visual case studies.
 
 ### Short Papers
 
-We invite submission of traditional research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (not the full paper journal style).  Submit papers online through the Precision Conference System (details TBA).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 minutes) may also be submitted.
+We invite submission of traditional research and position papers between 2 and 6 pages long, with length matching content.  Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html) (not the full paper journal style).  Submit papers online through the [Precision Conference System](https://new.precisionconference.com/vgtc).  Accepted papers will be published on IEEE Xplore and linked from the workshop website.  Papers should contain full author names and affiliations.  Links to short videos (up to 5 minutes) may also be submitted.
 
-The papers will be juried by the organizers and program committee, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the workshop, and present its contents. Registration information will be available on the [IEEE VIS website](https://ieeevis.org/year/2018/welcome).
+The papers will be juried by the organizers and program committee, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the workshop, and present its contents. Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
   
 ### Visual Case Studies
 
 We also invite submission of visual case studies, which are primarily audio-visual descriptions of compelling communicative visualizations. These case studies should describe the communicative message, the choices made in crafting the visualization to deliver that message, and how that visualization succeeded (or failed) in practice.
 
-Visual case studies consist of extended abstracts and a mandatory accompanying video. Abstracts briefly introduce the case study and should be formatted similarly to short papers (see above), but be no more than one page in length.  Videos should carry the bulk of case study content and consist largely of a walkthrough of the visualization illustrating its design choices and their contributions to the visualization's success (or failure). Case study videos should be no more than 5 minutes in length. Both abstract and video should be submitted online through the Precision Conference System (additional details TBA).
+Visual case studies consist of extended abstracts and a mandatory accompanying video. Abstracts briefly introduce the case study and should be formatted similarly to short papers (see above), but be no more than one page in length.  Videos should carry the bulk of case study content and consist largely of a walkthrough of the visualization illustrating its design choices and their contributions to the visualization's success (or failure). Case study videos should be no more than 5 minutes in length. Both abstract and video should be submitted online through the [Precision Conference System](https://new.precisionconference.com/vgtc).
 
-The organizers and program committee will evaluate the relevance, quality and anticipated attendee interest of submitted case studies.  All case studies accepted for presentation will be published on IEEE Xplore and linked from the workshop website. At least one author of each accepted visual case study must register for the workshop, and perform a live walkthrough of their visualization. Registration information will be available on the [IEEE VIS website](https://ieeevis.org/year/2018/welcome).
+The organizers and program committee will evaluate the relevance, quality and anticipated attendee interest of submitted case studies.  All case studies accepted for presentation will be published on IEEE Xplore and linked from the workshop website. At least one author of each accepted visual case study must register for the workshop, and perform a live walkthrough of their visualization. Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
   
 ### Important Dates
 
-Submission deadline:  July 13, 2018 
+Submission deadline:  July 20, 2018 (EXTENDED)
 
 Author notification:  August 3, 2018
 
