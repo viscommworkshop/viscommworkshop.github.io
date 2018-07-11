@@ -39,7 +39,7 @@ The organizers and program committee will evaluate the relevance, quality and an
   
 ### Important Dates
 
-Submission deadline:  July 20, 2018 (EXTENDED)
+Submission deadline:  **July 20, 2018 (EXTENDED)**
 
 Author notification:  August 3, 2018
 
