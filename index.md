@@ -41,9 +41,9 @@ The organizers and program committee will evaluate the relevance, quality and an
 
 Submission deadline:  **July 20, 2018 (EXTENDED)**
 
-Author notification:  August 3, 2018
+Author notification:  **August 13, 2018 (EXTENDED)**
 
-Camera-ready deadline:  August 10, 2018
+Camera-ready deadline:  **August 20, 2018 (EXTENDED)**
 
 Speaker Schedule Available:  September 15, 2018
 
