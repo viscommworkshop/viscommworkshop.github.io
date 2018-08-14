@@ -36,16 +36,30 @@ We also invite submission of visual case studies, which are primarily audio-visu
 Visual case studies consist of extended abstracts and a mandatory accompanying video. Abstracts briefly introduce the case study and should be formatted similarly to short papers (see above), but be no more than one page in length.  Videos should carry the bulk of case study content and consist largely of a walkthrough of the visualization illustrating its design choices and their contributions to the visualization's success (or failure). Case study videos should be no more than 5 minutes in length. Both abstract and video should be submitted online through the [Precision Conference System](https://new.precisionconference.com/vgtc).
 
 The organizers and program committee will evaluate the relevance, quality and anticipated attendee interest of submitted case studies.  All case studies accepted for presentation will be published on IEEE Xplore and linked from the workshop website. At least one author of each accepted visual case study must register for the workshop, and perform a live walkthrough of their visualization. Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
-  
+
+### Posters
+
+We invite both late-breaking work and contributions in this area in the form of extended abstracts between 2 and 4 pages in length (including references), with an optional video.
+
+We invite contributions from any discipline, but particularly encourage journalists and designers to submit their work involving data-based communication or reporting. Scientific contributions concerning visualization for communication are of course welcome, as well.
+
+All submissions must be formatted according to the VGTC conference style template. Extended abstracts should be submitted online through the [Precision Conference System] (https://new.precisionconference.com/vgtc). All abstracts should contain full author names and affiliations. If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The abstracts will be juried by the organizers. At least one author of each accepted poster needs to register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS website] (http://ieeevis.org/year/2018/info/registration/conference-registration).
+
 ### Important Dates
 
-Submission deadline:  **July 20, 2018 (EXTENDED)**
+Paper and case study submission deadline:  **July 20, 2018 (EXTENDED)**
 
-Author notification:  **August 13, 2018 (EXTENDED)**
+Paper and case study notification:  **August 13, 2018 (EXTENDED)**
 
-Camera-ready deadline:  **August 20, 2018 (EXTENDED)**
+Paper and case study camera-ready deadline:  **August 20, 2018 (EXTENDED)**
+
+Poster submission deadline: September 3, 2018
+
+Poster notification: September 5, 2018
 
 Speaker Schedule Available:  September 15, 2018
+
+Poster camera-ready deadline: October 1, 2018
 
 Workshop:  October 21 or 22, 2018
 
