@@ -57,11 +57,11 @@ Poster submission deadline: September 3, 2018
 
 Poster notification: September 5, 2018
 
-Speaker Schedule Available:  September 15, 2018
+Speaker Schedule Available:  October 1, 2018
 
 Poster camera-ready deadline: October 1, 2018
 
-Workshop:  October 21 or 22, 2018
+Workshop:  October 21, 2018
 
 ## ORGANIZERS
 
