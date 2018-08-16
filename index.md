@@ -43,7 +43,7 @@ We invite both late-breaking work and contributions in this area in the form of 
 
 We invite contributions from any discipline, but particularly encourage journalists and designers to submit their work involving data-based communication or reporting. Scientific contributions concerning visualization for communication are of course welcome, as well.
 
-All submissions must be formatted according to the VGTC conference style template. Extended abstracts should be submitted online through the [Precision Conference System] (https://new.precisionconference.com/vgtc). All abstracts should contain full author names and affiliations. If applicable, a link to a short video (up to 5 min. in length) may also be submitted. The abstracts will be juried by the organizers. At least one author of each accepted poster needs to register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS website] (http://ieeevis.org/year/2018/info/registration/conference-registration).
+All submissions must be formatted according to the VGTC conference style template. Extended abstracts should be [submitted through this form](https://goo.gl/forms/PeG5TiTURGDl0BAA3). All abstracts should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. The abstracts will be juried by the organizers. At least one author of each accepted poster needs to register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
 
 ### Important Dates
 
