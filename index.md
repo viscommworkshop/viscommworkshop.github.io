@@ -1,10 +1,10 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** Sunday, October 21, 2018, 9-12:40pm, Paris Room at [IEEE VIS in Berlin](https://ieeevis.org/year/2018/welcome)
+**Date and Location:** Sunday, October 21, 2018, 9-12:40pm, Paris Room at [IEEE VIS in Berlin](http://ieeevis.org/year/2018/welcome)
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](https://ieeevis.org/).
+The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](http://ieeevis.org/).
 
 # Schedule
 **Session 1: Techniques & Applications (9:00am - 10:40am)**
