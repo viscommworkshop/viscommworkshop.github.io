@@ -19,7 +19,7 @@ The VisComm workshop brings together practitioners and researchers from a broad 
 **Session 2:  Methods & Research  (11:00am - 12:40pm)**
 - 11:00am:  **[Affective Engagement for Communicative Visualization: Quick and Easy Evaluation using Survey Instruments](papers/surveys.pdf)** by Ya-Hsin Hung and Paul Parsons
 - 11:25am:  **[Eye Tracking for Exploring Visual Communication Differences](papers/eyetracking.pdf)** by Ayush Kumar, Michael Burch, Irma van Den Brandt, Laurens Castelijns, Frank Ritchi, Freek Rooks, Hero de Smeth, Neil Timmermans and Klaus Mueller
-- 11:50am:  **[Automated Annotations](posters/annotations.pdf)** by Richard Brath
+- 11:50am:  **[Automated Annotations](posters/annotations.pdf)** by Richard Brath and Martin Matusiak
 - 12:00pm:  **[Conceptual Metaphor Theory as a Foundation for Communicative Visualization Design](papers/metaphor.pdf)** by Paul Parsons
 - 12:25pm:  **Summary and Next Steps:** summarizing feedback and considering next steps
 - 12:40am:  **Workshop Ends** ...but please join us for lunch!
