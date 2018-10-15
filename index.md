@@ -1,10 +1,29 @@
-## CALL FOR PAPERS
+## WORKSHOP SUMMARY
 
-**Date and Location:** 9am - 12:40pm, October 21, 2018 at [IEEE VIS in Berlin, Germany](https://ieeevis.org/year/2018/welcome)
+**Date and Location:** Sunday, October 21, 2018, 9-12:40pm, Paris Room at [IEEE VIS in Berlin, Germany](https://ieeevis.org/year/2018/welcome)
 
 While visualization research is still largely focused on data analysis, most people's experience with visualization is in the form of communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop will bring together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](https://ieeevis.org/) and write academic manuscripts. Accordingly, we seek not only short papers but also visual case studies: one-page abstracts with video walkthroughs of communicative visualizations.
+The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address the questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](https://ieeevis.org/).
+
+# Schedule
+**Session 1: Techniques & Applications (9:00am - 10:40am)**
+- 9:00am:  **Welcome and Introduction:** setting the scene and inviting feedback from attendees
+- 9:20am:  **[PetalVis - Floral Visualization for Communicating Set Operations](papers/petalvis.pdf)** by Ayush Kumar, Michael Burch, Dina Kurbanismailova, Uwe Kloos and Klaus Mueller
+- 9:45am:  **[Bridging Computation and Visual Communication of Change using Levels of Abstraction](papers/abstraction.pdf)** by Aritra Dasgupta, Meg Pirrung, Joseph Bruce, Kyungsik Han, Jean C Scholtz and Dustin L Arendt
+- 10:10am:  **[Time-based Impact Mosaics](posters/timemosaics.pdf)** by Stefan Jänicke
+- 10:20am:  **[Pulse: Toward a Smart Campus by Communicating Real-time Wi-Fi Access Data](posters/wifi.pdf)** by Aoyu Wu, Bon Kyung Ku, Furui Cheng, Xinhuan Shu, Abishek Puri, Yifang Wang and Huamin Qu
+- 10:30am:  **[The Circle Of Thrones: Conveying the Story of Game of Thrones Using Radial Infographics](posters/radialgot.pdf)** by Velitchko Filipov, Davide Ceneda, Michael Koller, Alessio Arleo and Silvia Miksch
+- 10:40am:  **Break**
+
+**Session 2:  Methods & Research  (11:00am - 12:40pm)**
+- 11:00am:  **[Affective Engagement for Communicative Visualization: Quick and Easy Evaluation using Survey Instruments](papers/surveys.pdf)** by Ya-Hsin Hung and Paul Parsons
+- 11:25am:  **[Eye Tracking for Exploring Visual Communication Differences](papers/eyetracking.pdf)** by Ayush Kumar, Michael Burch, Irma van Den Brandt, Laurens Castelijns, Frank Ritchi, Freek Rooks, Hero de Smeth, Neil Timmermans and Klaus Mueller
+- 11:50am:  **[Automated Annotations](posters/annotations.pdf)** by Richard Brath
+- 12:00pm:  **[Conceptual Metaphor Theory as a Foundation for Communicative Visualization Design](papers/metaphor.pdf)** by Paul Parsons
+- 12:25pm:  **Summary and Next Steps:** summarizing feedback and considering next steps
+- 12:40am:  **Workshop Ends** ...but please join us for lunch!
+
 
 ## WORKSHOP TOPICS
 
@@ -21,7 +40,7 @@ We particularly encourage contributors to address and illustrate issues like the
 
 ## SUBMISSIONS
 
-We have two submission tracks: short papers and visual case studies.
+We have two submission tracks: papers and posters.
 
 ### Short Papers
 
@@ -29,14 +48,6 @@ We invite submission of traditional research and position papers between 2 and 6
 
 The papers will be juried by the organizers and program committee, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted paper must register for the workshop, and present its contents. Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
   
-### Visual Case Studies
-
-We also invite submission of visual case studies, which are primarily audio-visual descriptions of compelling communicative visualizations. These case studies should describe the communicative message, the choices made in crafting the visualization to deliver that message, and how that visualization succeeded (or failed) in practice.
-
-Visual case studies consist of extended abstracts and a mandatory accompanying video. Abstracts briefly introduce the case study and should be formatted similarly to short papers (see above), but be no more than one page in length.  Videos should carry the bulk of case study content and consist largely of a walkthrough of the visualization illustrating its design choices and their contributions to the visualization's success (or failure). Case study videos should be no more than 5 minutes in length. Both abstract and video should be submitted online through the [Precision Conference System](https://new.precisionconference.com/vgtc).
-
-The organizers and program committee will evaluate the relevance, quality and anticipated attendee interest of submitted case studies.  All case studies accepted for presentation will be published on IEEE Xplore and linked from the workshop website. At least one author of each accepted visual case study must register for the workshop, and perform a live walkthrough of their visualization. Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
-
 ### Posters
 
 We invite both late-breaking work and contributions in this area in the form of extended abstracts between 2 and 4 pages in length (including references), with an optional video.
@@ -47,19 +58,19 @@ All submissions must be formatted according to the VGTC conference style templat
 
 ### Important Dates
 
-Paper and case study submission deadline:  **July 20, 2018 (EXTENDED)**
+Paper submission deadline:  **July 20, 2018 (EXTENDED)**
 
-Paper and case study notification:  **August 13, 2018 (EXTENDED)**
+Paper notification:  **August 13, 2018 (EXTENDED)**
 
-Paper and case study camera-ready deadline:  **August 20, 2018 (EXTENDED)**
+Paper camera-ready deadline:  **August 20, 2018 (EXTENDED)**
 
 Poster submission deadline: September 3, 2018
 
 Poster notification: September 5, 2018
 
-Speaker Schedule Available:  October 1, 2018
-
 Poster camera-ready deadline: October 1, 2018
+
+Speaker Schedule Available:  October 1, 2018
 
 Workshop:  October 21, 2018
 
@@ -68,21 +79,3 @@ Workshop:  October 21, 2018
 [Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (bwatson@ncsu.edu)
 
 [Robert Kosara](https://eagereyes.org/), Tableau Research (rkosara@tableau.com)
-
-## PROGRAM COMMITTEE
-
-Danyel Fisher, Microsoft Research
-
-Steven Franconeri, Northwestern University
-
-Heather Krause, Datassist
-
-Paul Parsons, Purdue University
-
-Hanspeter Pfister, Harvard University
-
-Ron Rensink, University British Columbia
-
-Noeska Smit, University of Bergen (Norway)
-
-(More names to be added soon)
