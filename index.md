@@ -58,21 +58,21 @@ All submissions must be formatted according to the VGTC conference style templat
 
 ### Important Dates
 
-Paper submission deadline:  **July 20, 2018 (EXTENDED)**
+Paper submission deadline:  ~~July 20, 2018 (EXTENDED)~~
 
-Paper notification:  **August 13, 2018 (EXTENDED)**
+Paper notification:  ~~August 13, 2018 (EXTENDED)~~
 
-Paper camera-ready deadline:  **August 20, 2018 (EXTENDED)**
+Paper camera-ready deadline:  ~~August 20, 2018 (EXTENDED)~~
 
-Poster submission deadline: September 3, 2018
+Poster submission deadline: ~~September 3, 2018~~
 
-Poster notification: September 5, 2018
+Poster notification: ~~September 5, 2018~~
 
-Poster camera-ready deadline: October 1, 2018
+Poster camera-ready deadline: ~~October 1, 2018~~
 
-Speaker Schedule Available:  October 1, 2018
+Speaker Schedule Available:  ~~October 1, 2018~~
 
-Workshop:  October 21, 2018
+Workshop:  **October 21, 2018**
 
 ## ORGANIZERS
 
