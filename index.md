@@ -37,6 +37,10 @@ We invite contributions from any discipline, but particularly encourage journali
 
 All submissions must be formatted according to the VGTC conference style template. Extended abstracts should be [submitted through this form](https://goo.gl/forms/PeG5TiTURGDl0BAA3). All abstracts should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. The abstracts will be juried by the organizers. At least one author of each accepted poster needs to register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS website](http://ieeevis.org/year/2018/info/registration/conference-registration).
 
+### Archive
+
+[2018 schedule and papers](/schedule-2018.html)
+
 ### Important Dates
 
 Paper submission deadline: June 15, 2019
