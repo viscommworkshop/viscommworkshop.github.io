@@ -1,6 +1,6 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** Sunday, October 21, 2018, 9-12:40pm, Paris Room at [IEEE VIS in Berlin](http://ieeevis.org/year/2018/welcome)
+**Date and Location:** The workshop will be held at [IEEE VIS in Vancouver](http://ieeevis.org/year/2019/welcome)
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
@@ -58,21 +58,21 @@ All submissions must be formatted according to the VGTC conference style templat
 
 ### Important Dates
 
-Paper submission deadline:  ~~July 20, 2018 (EXTENDED)~~
+Paper submission deadline: June 15, 2019
 
-Paper notification:  ~~August 13, 2018 (EXTENDED)~~
+Paper notification: July 15, 2019
 
-Paper camera-ready deadline:  ~~August 20, 2018 (EXTENDED)~~
+Paper camera-ready deadline: August 15, 2019
 
-Poster submission deadline: ~~September 3, 2018~~
+Poster submission deadline: September 6, 2019
 
-Poster notification: ~~September 5, 2018~~
+Poster notification: September 13, 2019
 
-Poster camera-ready deadline: ~~October 1, 2018~~
+Poster camera-ready deadline: September 27, 2019
 
-Speaker Schedule Available:  ~~October 1, 2018~~
+Speaker Schedule Available: October 1, 2019
 
-Workshop:  **October 21, 2018**
+Workshop: **October 20 or 21, 2019**
 
 ## ORGANIZERS
 
