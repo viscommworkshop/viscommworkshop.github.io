@@ -71,7 +71,7 @@ Poster & case study notification: September 13, 2019
 
 Poster & case study camera-ready deadline: September 27, 2019
 
-Speaker schedule Available: October 1, 2019
+Speaker schedule available: October 1, 2019
 
 Workshop: **October 20 or 21, 2019**
 
