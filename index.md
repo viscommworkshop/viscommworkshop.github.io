@@ -4,7 +4,7 @@
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE VIS](http://ieeevis.org/).
+The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE Vis](http://ieeevis.org/).
 
 ## WORKSHOP TOPICS
 
@@ -31,8 +31,7 @@ We invite submission of research papers between 2 and 6 pages long, with length 
 
 ### Short Position Papers
 
-We invite submission of position papers between 2 and 6 pages long, with length matching content. 
-Position papers are problem discussions or statements describing the author's relevant experience and ideas with regards to methods and methodologies for visualization research, and in particular the focus topic of the workshop. Position papers will be selected according to their importance and relevance for the workshop topics and how well they will fit the planned discussions.
+We invite submission of position papers between 2 and 6 pages long, with length matching content. Position papers are problem discussions or statements describing the author's relevant experience and ideas with regards to methods and methodologies for visualization research, and in particular the focus topic of the workshop. Position papers will be selected according to their importance and relevance for the workshop topics and how well they will fit the planned discussions.
 
 ### Posters
 
@@ -48,15 +47,15 @@ The goal is to show the work of journalists, designers, people working for gover
 
 Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html). However, please replace the statement about IEEE copyright and reprints with the following text: _This work is licensed under a Creative Commons Attribution 4.0 International License._
 
-All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. The abstracts will be juried by the organizers. At least one author of each accepted poster needs to register for the conference (even if only for the workshop). Registration information is available on the IEEE VIS website.
+All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE Vis](http://ieeevis.org/) website.
 
 Submit papers online through the [Precision Conference System](https://new.precisionconference.com/vgtc). 
 
-### Accepted Papers
+### Accepted Submissions
+
+All submissions will be hosted on the workshop website.
 
 Authors of accepted papers will receive instructions to post papers on the open access site [OSF Preprints](http://osf.io/preprints). Authors are welcome to post an initial version of their submission beforehand. 
-
-At least one author of each accepted paper must register for the workshop and present its contents. Registration information is available on the IEEE VIS website.
 
 ## Important Dates
 
@@ -66,13 +65,13 @@ Paper notification: July 15, 2019
 
 Paper camera-ready deadline: August 15, 2019
 
-Poster submission deadline: September 6, 2019
+Poster & case study submission deadline: September 6, 2019
 
-Poster notification: September 13, 2019
+Poster & case study notification: September 13, 2019
 
-Poster camera-ready deadline: September 27, 2019
+Poster & case study camera-ready deadline: September 27, 2019
 
-Speaker Schedule Available: October 1, 2019
+Speaker schedule Available: October 1, 2019
 
 Workshop: **October 20 or 21, 2019**
 
