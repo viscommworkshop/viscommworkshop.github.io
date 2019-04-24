@@ -27,7 +27,7 @@ VisComm has four submission tracks: short papers (research or position), posters
 
 ### Short Research Papers
 
-We invite submission of research papers between 2 and 6 pages long, with length matching content. Research papers will be reviewed based on how well claims are supported by evidence. Submissions are expected to include all materials and data needed to replicate and reproduce any figures, analyses, and methods.
+We invite submission of research papers between 2 and 6 pages long, with length matching content. Research papers will be reviewed based on how well claims are supported by evidence. Submissions are expected to include all materials and data needed to replicate and reproduce any figures, analyses, and methods. If anything cannot be publicly shared (e.g., for data privacy concerns), state the reason in the paper.
 
 ### Short Position Papers
 
