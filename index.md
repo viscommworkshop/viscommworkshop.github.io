@@ -58,11 +58,6 @@ Authors of accepted papers will receive instructions to post papers on an open a
 
 At least one author of each accepted paper must register for the workshop and present its contents. Registration information is available on the IEEE VIS website.
 
-
-## Archive
-
-[2018 schedule, papers and posters](/schedule-2018.html)
-
 ## Important Dates
 
 Paper submission deadline: June 15, 2019
@@ -90,3 +85,9 @@ Noeska Smit, University of Bergen (noeska.smit@uib.no)
 [Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (bwatson@ncsu.edu)
 
 [Robert Kosara](https://eagereyes.org/), Tableau Research (rkosara@tableau.com)
+
+## ARCHIVE
+
+[2018 schedule, papers and posters](/schedule-2018.html)
+
+
