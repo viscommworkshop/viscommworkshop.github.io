@@ -79,7 +79,7 @@ Workshop: **October 20 or 21, 2019**
 
 [Steve Haroz](http://steveharoz.com), Inria (viscomm@steveharoz.com)
 
-Noeska Smit, University of Bergen (noeska.smit@uib.no)
+[Noeska Smit](http://noeskasmit.com), University of Bergen (noeska.smit@uib.no)
 
 [Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (bwatson@ncsu.edu)
 
