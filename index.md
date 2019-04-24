@@ -54,7 +54,7 @@ Submit papers online through the [Precision Conference System](https://new.preci
 
 ### Accepted Papers
 
-Authors of accepted papers will receive instructions to post papers on an open access site http://osf.io/preprints. Authors are welcome to post an initial version of their submission beforehand. 
+Authors of accepted papers will receive instructions to post papers on the open access site [OSF Preprints](http://osf.io/preprints). Authors are welcome to post an initial version of their submission beforehand. 
 
 At least one author of each accepted paper must register for the workshop and present its contents. Registration information is available on the IEEE VIS website.
 
