@@ -61,7 +61,7 @@ At least one author of each accepted paper must register for the workshop and pr
 
 ## Archive
 
-[2018 schedule and papers](/schedule-2018.html)
+[2018 schedule, papers and posters](/schedule-2018.html)
 
 ## Important Dates
 
