@@ -49,7 +49,7 @@ Format submissions using the [VGTC conference style template](http://junctionpub
 
 All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE Vis](http://ieeevis.org/) website.
 
-Submit papers online through the [Precision Conference System](https://new.precisionconference.com/vgtc). 
+Submit papers online via [Precision Conference](https://new.precisionconference.com/submissions/vis19w). 
 
 ### Accepted Submissions
 
