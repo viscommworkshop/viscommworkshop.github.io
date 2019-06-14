@@ -61,7 +61,7 @@ Authors of accepted papers will receive instructions to post papers on the Open 
 
 _deadlines occur at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Paper submission deadline: June 15, 2019
+Paper submission deadline: ~~June 15, 2019~~ extended to July 15th, 2019
 
 Paper notification: August 1, 2019
 
