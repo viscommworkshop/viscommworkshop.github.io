@@ -55,7 +55,9 @@ Submit papers online via [Precision Conference](https://new.precisionconference.
 
 All accepted submissions will be hosted on the workshop website.
 
-Authors of accepted papers will receive instructions to post papers on the Open Science Framework's [preprint archive](http://osf.io/preprints). Authors are welcome to post an initial version of their submission beforehand. Presenting authors can make use of a reduced registration fee at [IEEE Vis](http://ieeevis.org/).
+Authors of accepted papers will receive instructions to post papers on the Open Science Framework's [preprint archive](http://osf.io/preprints). Authors are welcome to post an initial version of their submission beforehand. Papers are not considered archival by IEEE.
+
+Presenting authors can make use of a reduced registration fee at [IEEE Vis](http://ieeevis.org/).
 
 ## Important Dates
 
