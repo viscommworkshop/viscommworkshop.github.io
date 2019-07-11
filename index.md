@@ -1,6 +1,6 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** The workshop will be held at [IEEE VIS in Vancouver](http://ieeevis.org/year/2019/welcome)
+**Date and Location:** The workshop will be held on Sunday, October 20, 9am to 12:20pm at [IEEE VIS in Vancouver](http://ieeevis.org/year/2019/welcome)
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
