@@ -63,11 +63,11 @@ Presenting authors can make use of a reduced registration fee at [IEEE Vis](http
 
 _deadlines occur at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Paper submission deadline: ~~June 15, 2019~~ **extended to July 15th, 2019**
+~~Paper submission deadline: June 15, 2019 **extended to July 15th, 2019**~~
 
-Paper notification: August 1, 2019
+~~Paper notification: August 1, 2019~~
 
-Paper camera-ready deadline: August 15, 2019
+~~Paper camera-ready deadline: August 15, 2019~~
 
 Poster & case study submission deadline: September 6, 2019
 
