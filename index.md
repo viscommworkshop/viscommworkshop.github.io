@@ -71,7 +71,7 @@ _deadlines occur at 11:59 PM in the [last timezone on Earth](https://www.google.
 
 ~~Poster & case study submission deadline: September 6, 2019~~
 
-Poster & case study notification: September 13, 2019
+~~Poster & case study notification: September 13, 2019~~
 
 Poster & case study camera-ready deadline: September 27, 2019
 
