@@ -8,7 +8,7 @@
 - *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)
 - *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study)
 - *Vernacular Visualization Practices* by Jaime Snyder (Poster)
-- *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* Adriana Arcia (Poster)
+- *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* by Adriana Arcia (Poster)
 
 **Break (10:30am - 10:50am)**
 
