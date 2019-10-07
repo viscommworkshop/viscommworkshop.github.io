@@ -4,6 +4,10 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
+![](thumbnails/stoiber.png \| height=150px)
+
+![](thumbnails/stoiber.png){: style="height:150px;width:150px"}
+
 <table style="border: 0px blank;">
   <tbody>
     <tr style="border: 0px blank;">
