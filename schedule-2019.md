@@ -14,16 +14,9 @@
 
 **VisComm Session 2: Visualization for Communication & Journalism  (10:50am - 12:20pm)**
 
-- Visual Communication and Heuristics: Challenges and Directions from Across the Disciplines
-David Berube (Paper)
-- Categorizing and Ranking Graphs in the American Economic Review Over the Last Century
-Jon Schwabish (Paper)
-- Data Visualization + Scrollytelling for Election News Stories : Challenges and Perspectives
-Jean-Philippe Corbeil, Florent Daudens and Thomas Hurtut (Visual Case Study)
-- Launching the Parametric Press
-Matthew Conlen and Fred Hohman (Visual Case Study)
-- Guiding the Reader to Statistical Focus and Context of Industrial News Reports
-Ken Wakita and Kohei Arimoto (Poster)
-- A Visualization Course for Journalism Students
-Stefan Jänicke (Poster)
-
+- *Visual Communication and Heuristics: Challenges and Directions from Across the Disciplines* by David Berube (Paper)
+- *Categorizing and Ranking Graphs in the American Economic Review Over the Last Century* by Jon Schwabish (Paper)
+- *Data Visualization + Scrollytelling for Election News Stories : Challenges and Perspectives* by Jean-Philippe Corbeil, Florent Daudens and Thomas Hurtut (Visual Case Study)
+- *Launching the Parametric Press* by Matthew Conlen and Fred Hohman (Visual Case Study)
+- *Guiding the Reader to Statistical Focus and Context of Industrial News Reports* by Ken Wakita and Kohei Arimoto (Poster)
+- *A Visualization Course for Journalism Students* by Stefan Jänicke (Poster)
