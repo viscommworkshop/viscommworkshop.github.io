@@ -19,7 +19,7 @@ Jaime Snyder (Poster)
 Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants
 Adriana Arcia (Poster)
 
-**10:30am:  **Break**
+**10:30am: Break**
 
 **VisComm Session 2: Visualization for Communication & Journalism  (10:50am - 12:20pm)**
 
