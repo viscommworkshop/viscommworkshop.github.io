@@ -4,29 +4,34 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-![](thumbnails/stoiber.png \| height=150px)
+<style>
+    table, tr, td {border: 0 none black;}
+    td image {max-width: 150px;}
+</style>
 
-![](thumbnails/stoiber.png){: style="height:150px;width:150px"}
-
-<table style="border: 0px blank;">
+<table>
   <tbody>
-    <tr style="border: 0px blank;">
-      <td><img src="thumbnails/stoiber.png" width=150></td>
-      <td><strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> <a href="http://google.com">Paper</a></td>
+    <tr>
+      <td><img src="thumbnails/stoiber.png"></td>
+      <td>
+        <strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> 
+        Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> 
+        <a href="http://google.com">Paper</a>
+      </td>
     </tr>
-    <tr style="border: 0px blank;">
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr style="border: 0px blank;">
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr style="border: 0px blank;">
+    <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <tr style="border: 0px blank;">
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
