@@ -4,16 +4,11 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-- Visualization Onboarding: Learning how to Read and Use Visualizations
-Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
-- Designing Communicative Visualization for People with Intellectual Developmental Disabilities
-Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)
-- LEGO as Language for Visual Communication
-Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study)
-- Vernacular Visualization Practices
-Jaime Snyder (Poster)
-- Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants
-Adriana Arcia (Poster)
+- *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
+- *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)
+- *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study)
+- *Vernacular Visualization Practices* by Jaime Snyder (Poster)
+- *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* Adriana Arcia (Poster)
 
 **Break (10:30am - 10:50am)**
 
