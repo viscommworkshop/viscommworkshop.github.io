@@ -4,6 +4,12 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
+| ![](thumbnails/stoiber.png?s=150) | *Visualization Onboarding: Learning how to Read and Use Visualizations* <br> Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> [Paper](http://google.com) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 - *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
 - *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)
 - *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study)
