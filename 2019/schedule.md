@@ -6,7 +6,8 @@
 
 <style>
     table, tr, td {border: 0 none black;}
-    td image {max-width: 150px;}
+    td img {max-width: 150px; margin: 0; padding: 0;}
+    td {vertical-align: middle; padding: 0 10px 0 0;}
 </style>
 
 <table>
@@ -20,8 +21,12 @@
       </td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td><img src="thumbnails/stoiber.png"></td>
+      <td>
+        <strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> 
+        Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> 
+        <a href="http://google.com">Paper</a>
+      </td>
     </tr>
     <tr>
       <td>&nbsp;</td>
