@@ -4,11 +4,30 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-| ![](thumbnails/stoiber.png?s=150) | *Visualization Onboarding: Learning how to Read and Use Visualizations* <br> Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> [Paper](http://google.com) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+<table style="border: 0px blank;">
+  <tbody>
+    <tr style="border: 0px blank;">
+      <td><img src="thumbnails/stoiber.png" width=150></td>
+      <td><strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> <a href="http://google.com">Paper</a></td>
+    </tr>
+    <tr style="border: 0px blank;">
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="border: 0px blank;">
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="border: 0px blank;">
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="border: 0px blank;">
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 - *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
 - *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)
