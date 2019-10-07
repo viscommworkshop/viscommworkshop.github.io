@@ -6,8 +6,8 @@
 
 <style>
     table, tr, td {border: 0 none black;}
-    td img {max-width: 150px; min-width: 150px; margin: 0; padding: 0;}
-    td {vertical-align: middle; padding: 0 10px 0 0;}
+    td img {max-width: 150px; min-width: 150px; margin: 0 15px 0 0; padding: 0; border: none}
+    td {vertical-align: middle; padding: 10px 0;}
 </style>
 
 <table>
