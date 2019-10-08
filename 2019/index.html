@@ -55,27 +55,19 @@
       margin-right: 25%; 
     }
     
-    table {
+    .pres {
+      clear: both;
       border: none; 
       width: 100%;
       padding: 0; 
       vertical-align: top;
+      margin-top: 1em; 
       margin-left: 0;
       margin-right: 0;
-    }
-   
-    #imgcell {
-      width=150px;
-    }
-     
-   
-    td {
-      vertical-align: top;
-      margin: 0;
-      padding: 0; 
-      border-bottom-style: solid;
-      border-bottom-width: 1em;
-      border-bottom-color: black; /* rgb(224,224,224); */
+      font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+      font-size: 11pt;
+      font-weight: 100; 
+      line-height: 1.5; 
     }
    
     p {
@@ -85,16 +77,10 @@
       line-height: 1.5; 
     } 
     
-    td > p {
-      margin: 0 0 0 1em;
-      padding: 0; 
-      border: none; 
-    }
-   
     img {
       width: 150px;
       float: left; 
-      border: none;
+      margin-right: 1em;
     }
     
     section > h1 {
@@ -103,17 +89,7 @@
       border-bottom-width: 2px;
       border-bottom-color: rgb(208,208,208);
     }
-  
-    /* .pres {
-      clear: both;
-      margin-top: 1em;
-      padding: 5% 0;
-    } */ 
-  
-    /* .prestext {
-      padding: 5% 0;
-      margin-left: 2em;
-    } */ 
+   
   </style>  
   
 </head>
@@ -149,23 +125,18 @@
 
   <p><strong>VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)</strong></p>
 
-  <table>
-    <tr>
-      <td class="imgcell"><img src="thumbnails/stoiber.png" /></td>
-      <td>
-       <p><em>Visualization Onboarding: Learning how to Read and Use Visualizations</em> by Christina Stoiber, 
-        Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner 
-        (<a href="https://osf.io/c38ab/">Paper</a>)</p>
-      </td>
-    </tr>
-    <tr>
-      <td class="imgcell"><img src="thumbnails/wu.png" /></td>
-      <td>
-        <p><em>Designing Communicative Visualization for People with Intellectual Developmental Disabilities</em> 
-        by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)</p>
-      </td>
-    </tr>
-  </table>
+  <div class="pres">
+    <img src="thumbnails/stoiber.png" />
+    <em>Visualization Onboarding: Learning how to Read and Use Visualizations</em> by Christina Stoiber, 
+    Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner 
+    (<a href="https://osf.io/c38ab/">Paper</a>)
+  </div>
+  <div class="pres">
+    <img src="thumbnails/wu.png" />
+    <em>Designing Communicative Visualization for People with Intellectual Developmental Disabilities</em> 
+    by Keke Wu, Shea Tanis, and Danielle Albers Szafir 
+    (<a href="https://osf.io/zbjhr/">Paper</a>)
+  </div>
 </section>
 
 </body>
