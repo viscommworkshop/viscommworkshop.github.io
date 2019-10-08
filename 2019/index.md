@@ -7,7 +7,7 @@
 <div>
   <img src="thumbnails/stoiber.png" style="float:left; width:150px;" />
   <p>
-    <i>Visualization Onboarding: Learning how to Read and Use Visualizations by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
+    <i>*Visualization Onboarding: Learning how to Read and Use Visualizations by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
   </p>
 </div>
 
