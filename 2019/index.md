@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <img src="thumbnails/stoiber.png" width="150"; style="float:left" /> Test3
+    <img src="thumbnails/stoiber.png" width="150" style="float:left" /> Test4
   </tr>
 </table>
 
