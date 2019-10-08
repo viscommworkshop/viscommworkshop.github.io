@@ -7,7 +7,7 @@
 | | |
 | - | - |
 | ![](thumbnails/stoiber.png) | *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper) |
-| ![](thumbnails/stoiber.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
+| ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
 
       <td><img src="thumbnails/stoiber.png"></td>
       <td>
