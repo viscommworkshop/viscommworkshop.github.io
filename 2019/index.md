@@ -2,9 +2,9 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-<table>
+<table style="vertical-align:top">
   <tr>
-    <img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> <p>Test7</p>
+    <img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> <p>Test8</p>
   </tr>
 </table>
 
