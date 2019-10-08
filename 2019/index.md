@@ -4,15 +4,11 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-<style>
-    table, tr, td {border: 0 none black;}
-    td img {max-width: 150px; min-width: 150px; margin: 0 15px 0 0; padding: 0; border: none}
-    td {vertical-align: middle; padding: 10px 0;}
-</style>
+             |  
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-<table>
-  <tbody>
-    <tr>
       <td><img src="thumbnails/stoiber.png"></td>
       <td>
         <strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> 
