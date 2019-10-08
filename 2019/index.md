@@ -5,6 +5,12 @@
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
 <table>
+
+<tr>
+  <td><img src="thumbnails/stoiber.png"></td>
+  <td><i>Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants</i> by Adriana Arcia (Poster)</td>
+</tr>
+
 </table>
 
 | | |
