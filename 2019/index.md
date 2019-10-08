@@ -4,7 +4,7 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-<table style="img: {width: 150}">
+<table style="img: {width: 150; float: left;}">
 
 <tr>
   <td><img src="thumbnails/stoiber.png"></td>
