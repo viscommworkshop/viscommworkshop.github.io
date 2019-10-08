@@ -7,7 +7,7 @@
 <table style="img {width: 150px; float: left;}">
 
 <tr>
-  <td><img src="thumbnails/stoiber.png"></td>
+  <td><img src="thumbnails/stoiber.png" style="float: left"></td>
   <td><i>Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)</td>
 </tr>
 
