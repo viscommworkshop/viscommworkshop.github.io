@@ -4,8 +4,8 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-|              |               |
-| ------------ | ------------- |
+|   |   |
+| - | - |
 | ![](thumbnails/stoiber.png) | *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper) |
 | Content in the first column | Content in the second column |
 
