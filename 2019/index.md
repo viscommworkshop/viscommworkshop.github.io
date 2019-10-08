@@ -4,10 +4,10 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-             |               |
------------- | ------------- |
-Content from cell 1 | Content from cell 2 |
-Content in the first column | Content in the second column |
+|              |               |
+| ------------ | ------------- |
+| Content from cell 1 | Content from cell 2 |
+| Content in the first column | Content in the second column |
 
       <td><img src="thumbnails/stoiber.png"></td>
       <td>
