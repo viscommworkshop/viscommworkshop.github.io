@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
 
 th:empty {
   font-size: 0px;
