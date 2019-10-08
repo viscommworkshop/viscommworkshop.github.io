@@ -5,12 +5,14 @@
 <table style="border:none">
   <tr>
     <td style="vertical-align:middle">
-      <img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> Test14
+      <img src="thumbnails/stoiber.png" width="150" style="float:left; border:none;" />
+      Test15
     </td>
   </tr>
   <tr>
     <td style="vertical-align:middle">
-      <img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> Test14
+      <img src="thumbnails/stoiber.png" width="150" style="float:left; border:none;" />
+      Test15
     </td>
   </tr>
 </table>
