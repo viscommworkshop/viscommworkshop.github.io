@@ -8,44 +8,10 @@
 | - | - |
 | ![](thumbnails/stoiber.png) | *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper) |
 | ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
+| ![](thumbnails/flack.png) | *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study) |
+| ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
+| ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
 
-      <td><img src="thumbnails/stoiber.png"></td>
-      <td>
-        <strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> 
-        Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> 
-        <a href="http://google.com">Paper</a>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="thumbnails/stoiber.png"></td>
-      <td>
-        <strong>Visualization Onboarding: Learning how to Read and Use Visualizations</strong> <br> 
-        Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner <br> 
-        <a href="http://google.com">Paper</a>
-      </td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td><img></td>
-      <td>
-        <strong>Blah</strong> <br> 
-        Blah <br> 
-        <a href="http://google.com">Poster</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-- *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
-- *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper)
-- *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study)
 - *Vernacular Visualization Practices* by Jaime Snyder (Poster)
 - *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* by Adriana Arcia (Poster)
 
