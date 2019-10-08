@@ -6,20 +6,26 @@ While visualization research is still largely focused on data analysis, most peo
 
 The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE Vis](http://ieeevis.org/).
 
-## WORKSHOP TOPICS
+## PROGRAM
 
-VisComm seeks contributions addressing questions including: 
+**VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-- How should visualization adapt to its new, more diverse audience? Visualization for communication addresses an audience that is much more varied in demographics and literacy than visualization for analysis.
-- When do visualizations communicate successfully, and how can we measure that success? Methods might include web analytics, behavioral studies, eye tracking, or even galvanic skin response.
-- How can practitioners build visualizations that communicate successfully? Are there models that can guide effective communicative visualization, possibly derived from theories of aesthetics, memory, metaphor, or persuasion?
-- Are there certain visualization techniques (like “chart junk”) that are particularly helpful for communication? How well do they work in concert?  
-- What tools do practitioners need to help them build visualizations for communication? What are typical practitioner workflows, and which parts of them are most challenging? 
-- Which application areas are still emerging for communicative visualization, and how should visualization respond to them? How would the success of new tools be measured?
+- *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner ([Paper](https://osf.io/c38ab/))
+- *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir ([Paper](https://osf.io/zbjhr/)) 
+- *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss ([Visual Case Study](https://osf.io/6fwq4/)) 
+- *Vernacular Visualization Practices* by Jaime Snyder ([Poster](https://osf.io/frjxv/))- 
+- *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* by Adriana Arcia ([Poster](https://osf.io/mp834/))
 
-We particularly encourage contributors to address and illustrate issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions and process.
+**Break (10:30am - 10:50am)**
 
-We invite contributions from any discipline, but particularly encourage journalists and designers to submit their work involving data-based communication or reporting. Scientific contributions concerning visualization for communication are of course welcome, as well.
+**VisComm Session 2: Visualization for Communication & Journalism  (10:50am - 12:20pm)**
+
+- *Visual Communication and Heuristics: Challenges and Directions from Across the Disciplines* by David Berube (Paper)
+- *Categorizing and Ranking Graphs in the American Economic Review Over the Last Century* by Jon Schwabish (Paper)
+- *Data Visualization + Scrollytelling for Election News Stories : Challenges and Perspectives* by Jean-Philippe Corbeil, Florent Daudens and Thomas Hurtut (Visual Case Study)
+- *Launching the Parametric Press* by Matthew Conlen and Fred Hohman (Visual Case Study)
+- *Guiding the Reader to Statistical Focus and Context of Industrial News Reports* by Ken Wakita and Kohei Arimoto (Poster)
+- *A Visualization Course for Journalism Students* by Stefan Jänicke (Poster)
 
 ## SUBMISSIONS
 
@@ -42,14 +48,6 @@ We invite both late-breaking work and contributions in this area in the form of 
 We invite practitioners to submit a one-page write-up together with a link to an online piece or a short video. The write-up should explain what you made, why you made it, outcome/responses (both expected and unexpected), etc.
 
 The goal is to show the work of journalists, designers, people working for governments or non-profits, etc., who use data to inform and communicate.
-
-### Formatting and Submitting
-
-Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html). However, please replace the statement about IEEE copyright and reprints with the following text: _This work is licensed under a Creative Commons Attribution 4.0 International License._
-
-All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE Vis](http://ieeevis.org/) website.
-
-Submit papers online via [Precision Conference](https://new.precisionconference.com/submissions/vis19w). 
 
 ### Accepted Submissions
 
