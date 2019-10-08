@@ -4,11 +4,11 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-<table>
+<table style="img: {width: 150}">
 
 <tr>
   <td><img src="thumbnails/stoiber.png"></td>
-  <td><i>Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants</i> by Adriana Arcia (Poster)</td>
+  <td><i>Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)</td>
 </tr>
 
 </table>
