@@ -4,7 +4,9 @@
 
 **VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)**
 
-<img src="thumbnails/stoiber.png" style="float: left; width: 150px;">
+<div>
+  <img src="thumbnails/stoiber.png" style="float: left; width: 150px;">
+</div>
 
 <p>
   <i>Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper)
