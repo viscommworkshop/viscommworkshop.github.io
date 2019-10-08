@@ -4,10 +4,10 @@
 
 <table style="vertical-align:middle">
   <tr>
-    <img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> <p>Test10</p>
+    <td><img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> <p>Test11</p></td>
   </tr>
   <tr>
-    <img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> <p>Test10</p>
+    <td><img src="thumbnails/stoiber.png" width="150" style="float:left; border:0px;" /> <p>Test11</p></td>
   </tr>
 </table>
 
