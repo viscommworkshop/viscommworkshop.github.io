@@ -1,13 +1,4 @@
-<style type="text/css">
-
-th:empty {
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-
-</style>
+<style> th { font-size: 0px; margin: 0; padding: 0; border: 0; } </style>
 
 [VisComm Home](/)
 
