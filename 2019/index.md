@@ -1,7 +1,3 @@
-
-<style> th { font-size: 0px; margin: 0; padding: 0; border: 0; } </style>
-
-
 [VisComm Home](/)
 
 # VisComm 2019 Schedule
@@ -11,7 +7,7 @@
 | | |
 | - | - |
 | ![](thumbnails/stoiber.png) | *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper) |
-| Content in the first column | Content in the second column |
+| ![](thumbnails/stoiber.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
 
       <td><img src="thumbnails/stoiber.png"></td>
       <td>
