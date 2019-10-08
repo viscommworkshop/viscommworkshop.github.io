@@ -9,11 +9,8 @@
 | ![](thumbnails/stoiber.png) | *Visualization Onboarding: Learning how to Read and Use Visualizations* by Christina Stoiber, Florian-Gregor Grassinger, Margit Pohl, Holger Stitz, Marc Streit, and Wolfgang Aigner (Paper) |
 | ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
 | ![](thumbnails/flack.png) | *LEGO as Language for Visual Communication* by Stuart Flack, Kevin Ponto, Travis Tangen, and Karen Schloss (Visual Case Study) |
-| ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
-| ![](thumbnails/wu.png) | *Designing Communicative Visualization for People with Intellectual Developmental Disabilities* by Keke Wu, Shea Tanis, and Danielle Albers Szafir (Paper) |
-
-- *Vernacular Visualization Practices* by Jaime Snyder (Poster)
-- *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* by Adriana Arcia (Poster)
+| ![](thumbnails/snyder.png) | *Vernacular Visualization Practices* by Jaime Snyder (Poster) |
+| ![](thumbnails/arcia.png) | *Colors and Imagery in Tailored Infographics for Communicating Health Information to Patients and Research Participants* by Adriana Arcia (Poster) |
 
 **Break (10:30am - 10:50am)**
 
