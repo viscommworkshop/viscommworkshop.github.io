@@ -1,3 +1,14 @@
+<style>
+
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+</style>
+
 [VisComm Home](/)
 
 # VisComm 2019 Schedule
