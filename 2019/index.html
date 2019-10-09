@@ -33,10 +33,6 @@
       padding-bottom: 3em;
     } 
     
-    header > h1 {
-      font-size: 20pt;
-    }
-
     header > h2 {
       font-size: 16pt;
     }
@@ -51,14 +47,19 @@
     }
     
     section {
-      clear: both; 
       text-align: left;
       margin-top: 2em;
       margin-left: auto;
       margin-right: auto;
       width: 768px;  
     }
+   
+    .pressection + section {
+      clear: both; 
+      padding-top: 2.5em;
+    } 
     
+   
     section > h1 {
       font-size: 18pt; 
       margin-top: 1em; 
@@ -142,7 +143,7 @@
  </div>
 </div>
 
-<section>
+<section class="textsection">
   <h1>WORKSHOP SUMMARY</h1>
   
   <p><strong>Date and Location:</strong> The workshop will be held on Sunday, October 20, 9am to 12:20pm 
@@ -159,7 +160,7 @@
    and others that do not typically attend <a href="http://ieeevis.org/">IEEE Vis</a>.</p>
 </section>
 
-<section>
+<section class="programsection">
   <h1>PROGRAM</h1>
 
   <h2>VisComm Session 1: Visualization for Specific Audiences (9:00am - 10:30am)</h2>
@@ -258,7 +259,7 @@
  
 </section>
  
-<section>
+<section class="textsection">
  
   <h1>SUBMISSIONS</h1>
 
@@ -294,7 +295,7 @@
  
 </section>
  
-<section>
+<section class="textsection">
   
   <h1>IMPORTANT DATES</h2>
 
@@ -318,7 +319,7 @@
     
 </section>
 
-<section>
+<section class="textsection">
    
   <h1>ORGANIZERS</h1>
    
@@ -332,7 +333,7 @@
    
 </section>
  
-<section>
+<section class="textsection">
    
   <h1>ARCHIVE</h1>
    
