@@ -1,6 +1,6 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** The workshop will be held on Sunday, October 20, 9am to 12:20pm at [IEEE VIS in Vancouver](http://ieeevis.org/year/2019/welcome)
+**Date and Location:** The workshop will be held on October 25 or 26 at [IEEE VIS in Salt Lake City](http://ieeevis.org/year/2020/welcome)
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
@@ -35,7 +35,7 @@ We invite submission of position papers between 2 and 6 pages long, with length 
 
 ### Posters
 
-We invite both late-breaking work and contributions in this area in the form of extended abstracts one to two pages in length (plus an additional page for references), with an optional video.
+We invite both late-breaking work and contributions in this area in the form of extended abstracts 1 to 2 pages in length (plus an additional page for references), with an optional video.
 
 ### Visual Case Studies
 
@@ -49,11 +49,11 @@ Format submissions using the [VGTC conference style template](http://junctionpub
 
 All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE Vis](http://ieeevis.org/) website.
 
-Submit papers online via [Precision Conference](https://new.precisionconference.com/submissions/vis19w). 
+Submit papers online using [PCS](https://new.precisionconference.com) (accepting submissions soon). 
 
 ### Accepted Submissions
 
-All accepted submissions will be hosted on the workshop website.
+All accepted submissions will be linked to from the workshop website.
 
 Authors of accepted papers will receive instructions to post papers on the Open Science Framework's [preprint archive](http://osf.io/preprints). Authors are welcome to post an initial version of their submission beforehand. Papers are not considered archival by IEEE.
 
@@ -63,33 +63,29 @@ Presenting authors can make use of a reduced registration fee at [IEEE Vis](http
 
 _deadlines occur at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Paper submission deadline: ~~June 15, 2019~~ **extended to July 15th, 2019**
+Submission deadline: June 15, 2020
 
-Paper notification: August 1, 2019
+Notification: July 15, 2020
 
-Paper camera-ready deadline: August 15, 2019
+Camera-ready deadline: August 15, 2020
 
-Poster & case study submission deadline: September 6, 2019
+Speaker schedule available: October 1, 2020
 
-Poster & case study notification: September 13, 2019
-
-Poster & case study camera-ready deadline: September 27, 2019
-
-Speaker schedule available: October 1, 2019
-
-Workshop: **October 20 or 21, 2019**
+Workshop: **October 25 or 26, 2020**
 
 ## ORGANIZERS
 
-[Steve Haroz](http://steveharoz.com), Inria (viscomm@steveharoz.com)
+[Alvitta Ottley](https://engineering.wustl.edu/Profiles/Pages/Alvitta-Ottley.aspx), Washington University in St. Louis (alvitta@wustl.edu)
 
-[Noeska Smit](http://noeskasmit.com), University of Bergen (noeska.smit@uib.no)
+[Adriana Arcia](https://www.nursing.columbia.edu/profile/adriana-arcia-phd), Columbia University (aa2594@cumc.columbia.edu)
 
 [Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (bwatson@ncsu.edu)
 
 [Robert Kosara](https://eagereyes.org/), Tableau Research (rkosara@tableau.com)
 
 ## ARCHIVE
+
+[2019 schedule, papers and posters](2019/index.html)
 
 [2018 schedule, papers and posters](2018/schedule.html)
 
