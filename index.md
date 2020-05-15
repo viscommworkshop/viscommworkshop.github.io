@@ -8,7 +8,7 @@ The VisComm workshop brings together practitioners and researchers from a broad 
 
 ## COVID-19 IMPACTS
 
-We hope that everyone is coping well with these unprecedented times! At this point, the IEEE Vis and VisComm are still scheduled to take place as planned in Salt Lake City. We will announce any change here, but in the meanwhile, you can monitor the status of IEEE VIS [here](http://ieeevis.org/year/2020/info/coronavirus-info).
+We hope that everyone is coping well with these unprecedented times! At this point, IEEE Vis and VisComm are still scheduled to take place as planned in Salt Lake City. We will announce any change here, but you can also monitor the status of IEEE VIS [here](http://ieeevis.org/year/2020/info/coronavirus-info).
 
 
 ## WORKSHOP TOPICS
