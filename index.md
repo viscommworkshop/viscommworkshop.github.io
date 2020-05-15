@@ -4,7 +4,7 @@
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers and others that do not typically attend [IEEE Vis](http://ieeevis.org/).
+The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers, health communicators and others that do not typically attend [IEEE Vis](http://ieeevis.org/).
 
 ## WORKSHOP TOPICS
 
@@ -16,6 +16,7 @@ VisComm seeks contributions addressing questions including:
 - Are there certain visualization techniques (like “chart junk”) that are particularly helpful for communication? How well do they work in concert?  
 - What tools do practitioners need to help them build visualizations for communication? What are typical practitioner workflows, and which parts of them are most challenging? 
 - Which application areas are still emerging for communicative visualization, and how should visualization respond to them? How would the success of new tools be measured?
+- What new lessons about visualization for communication are being revealed by the Covid-19 pandemic? For example, should physical distancing and economic disruption change communicative visualizations?
 
 We particularly encourage contributors to address and illustrate issues like these with visual case studies that demonstrate the success or failure of communicative visualization projects in data journalism, public health and more. Our goal is to consider a broad range of examples and learn from their design decisions and process.
 
@@ -45,7 +46,7 @@ The goal is to show the work of journalists, designers, people working for gover
 
 ### Formatting and Submitting
 
-Format submissions using the [VGTC conference style template](http://junctionpublishing.org/vgtc/Tasks/camera.html). However, please replace the statement about IEEE copyright and reprints with the following text: _This work is licensed under a Creative Commons Attribution 4.0 International License._
+Your paper, abstract or write-up should take the form of a PDF file, formatted in the [VGTC conference style](http://junctionpublishing.org/vgtc/Tasks/camera.html), which has both Latex and MS Word templates. However, please replace the statement about IEEE copyright and reprints with the following text: _This work is licensed under a Creative Commons Attribution 4.0 International License._
 
 All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE Vis](http://ieeevis.org/) website.
 
@@ -53,9 +54,9 @@ Submit papers online using [PCS](https://new.precisionconference.com) (accepting
 
 ### Accepted Submissions
 
-All accepted submissions will be linked to from the workshop website.
+All accepted submissions will be published using links from the workshop website.
 
-Authors of accepted papers will receive instructions to post papers on the Open Science Framework's [preprint archive](http://osf.io/preprints). Authors are welcome to post an initial version of their submission beforehand. Papers are not considered archival by IEEE.
+We expect authors of accepted submissions to post their documents on the Open Science Framework's [preprint archive](http://osf.io/preprints), using the instructions we send. Authors are welcome to post an initial version of their submission earlier. Our OSF workshop papers are not considered archival by IEEE, and may be published elsewhere at a later date. However, we understand that authors from non-engineering disciplines may have different prior publication standards; please contact the chairs if you must publish your accepted submission differently. 
 
 Presenting authors can make use of a reduced registration fee at [IEEE Vis](http://ieeevis.org/).
 
