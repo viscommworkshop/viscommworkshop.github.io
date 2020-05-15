@@ -4,11 +4,11 @@
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
-The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers, health communicators and others that do not typically attend [IEEE Vis](http://ieeevis.org/).
+The VisComm workshop brings together practitioners and researchers from a broad range of disciplines to address questions raised by visualization’s new communicative role. We encourage participation from journalists, designers, health communicators and others that do not typically attend [IEEE VIS](http://ieeevis.org/).
 
 ## COVID-19 IMPACTS
 
-We hope that everyone is coping well with these unprecedented times! At this point, IEEE Vis and VisComm are still scheduled to take place as planned in Salt Lake City. We will announce any change here, but you can also monitor the status of IEEE VIS [here](http://ieeevis.org/year/2020/info/coronavirus-info).
+We hope that everyone is coping well with these unprecedented times! At this point, IEEE Vis and VisComm are still scheduled to take place as planned in Salt Lake City. We will announce any change here, but you can also monitor the [status of IEEE VIS](http://ieeevis.org/year/2020/info/coronavirus-info).
 
 
 ## WORKSHOP TOPICS
@@ -53,7 +53,7 @@ The goal is to show the work of journalists, designers, people working for gover
 
 Your paper, abstract or write-up should take the form of a PDF file, formatted in the [VGTC conference style](http://junctionpublishing.org/vgtc/Tasks/camera.html), which has both Latex and MS Word templates. However, please replace the statement about IEEE copyright and reprints with the following text: _This work is licensed under a Creative Commons Attribution 4.0 International License._
 
-All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE Vis](http://ieeevis.org/) website.
+All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS](http://ieeevis.org/) website.
 
 Submit papers online using [PCS](https://new.precisionconference.com) (accepting submissions soon). 
 
@@ -63,7 +63,7 @@ All accepted submissions will be published using links from the workshop website
 
 We expect authors of accepted submissions to post their documents on the Open Science Framework's [preprint archive](http://osf.io/preprints), using the instructions we send. Authors are welcome to post an initial version of their submission earlier. Our OSF workshop papers are not considered archival by IEEE, and may be published elsewhere at a later date. However, we understand that authors from non-engineering disciplines may have different prior publication standards; please contact the chairs if you must publish your accepted submission differently. 
 
-Presenting authors can make use of a reduced registration fee at [IEEE Vis](http://ieeevis.org/).
+Presenting authors can make use of a reduced registration fee at [IEEE VIS](http://ieeevis.org/).
 
 ## Important Dates
 
