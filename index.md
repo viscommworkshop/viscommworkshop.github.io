@@ -67,7 +67,7 @@ Presenting authors can make use of a reduced registration fee at [IEEE VIS](http
 
 ## Important Dates
 
-_deadlines occur at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
+_deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
 Submission deadline: June 15, 2020
 
@@ -81,13 +81,15 @@ Workshop: **October 25 or 26, 2020**
 
 ## ORGANIZERS
 
-[Alvitta Ottley](https://engineering.wustl.edu/Profiles/Pages/Alvitta-Ottley.aspx), Washington University in St. Louis (alvitta@wustl.edu)
+The quickest way to contact VisComm's organizers is via their shared email, <viscomm_chairs@googlegroups.com>.
 
-[Adriana Arcia](https://www.nursing.columbia.edu/profile/adriana-arcia-phd), Columbia University (aa2594@cumc.columbia.edu)
+[Alvitta Ottley](https://engineering.wustl.edu/Profiles/Pages/Alvitta-Ottley.aspx), Washington University in St. Louis (<alvitta@wustl.edu>)
 
-[Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (bwatson@ncsu.edu)
+[Adriana Arcia](https://www.nursing.columbia.edu/profile/adriana-arcia-phd), Columbia University (<aa2594@cumc.columbia.edu>)
 
-[Robert Kosara](https://eagereyes.org/), Tableau Research (rkosara@tableau.com)
+[Ben Watson](https://watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
+
+[Robert Kosara](https://eagereyes.org/), Tableau Research (<rkosara@tableau.com>)
 
 ## ARCHIVE
 
