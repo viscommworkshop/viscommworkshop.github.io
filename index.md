@@ -65,15 +65,15 @@ We expect authors of accepted submissions to post their documents on the Open Sc
 
 Presenting authors can make use of a reduced registration fee at [IEEE VIS](http://ieeevis.org/).
 
-## Important Dates
+## Important Dates (EXTENDED)
 
 _deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Submission deadline: June 15, 2020
+Submission deadline: ~~June 15~~ July 16, 2020
 
-Notification: July 15, 2020
+Notification: ~~July 15~~ August 16, 2020
 
-Camera-ready deadline: August 15, 2020
+Camera-ready deadline: ~~August 15~~ August 27, 2020
 
 Speaker schedule available: October 1, 2020
 
