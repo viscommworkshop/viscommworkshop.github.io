@@ -1,6 +1,6 @@
 ## WORKSHOP SUMMARY
 
-**Date and Location:** The workshop will be held on October 25 or 26 at [IEEE VIS in Salt Lake City](http://ieeevis.org/year/2020/welcome).
+**Date and Location:** The workshop will be held *online* on October 25 or 26.
 
 While visualization research is still largely focused on data analysis, most people experience visualization as communication and presentation. The _New York Times_ and other publications regularly release interactive visuals depicting complex datasets including political topics, budgets, and sports. An independent community of visualization practitioners and bloggers has also sprung up, producing and deconstructing visualizations of data of broad interest. Free visualization tools such as D3, Data Wrapper, Tableau Public, and others are available and widely used.
 
@@ -8,7 +8,7 @@ The VisComm workshop brings together practitioners and researchers from a broad 
 
 ## COVID-19 IMPACTS
 
-We hope that everyone is coping well with these unprecedented times! At this point, IEEE Vis and VisComm are still scheduled to take place as planned in Salt Lake City. We will announce any change here, but you can also monitor the [status of IEEE VIS](http://ieeevis.org/year/2020/info/coronavirus-info).
+We hope that everyone is coping well with these unprecedented times! Because of the pandemic, IEEE Vis and VisComm will take place online. We will announce futher program and technology details here, but you can also monitor the [status of IEEE VIS](http://ieeevis.org/year/2020/info/coronavirus-info).
 
 
 ## WORKSHOP TOPICS
