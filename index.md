@@ -55,7 +55,7 @@ Your paper, abstract or write-up should take the form of a PDF file, formatted i
 
 All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the [IEEE VIS](http://ieeevis.org/) website.
 
-[Submit papers online using PCS](https://new.precisionconference.com/vgtc). Choose the VGTC society, the VIS 2020 conference, and the VisComm track.
+[SUBMIT ONLINE USING PCS](https://new.precisionconference.com/vgtc). Choose the VGTC society, the VIS 2020 conference, and the VisComm track.
 
 ### Accepted Submissions
 
@@ -69,7 +69,7 @@ Presenting authors can make use of a reduced registration fee at [IEEE VIS](http
 
 _deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Submission deadline: ~~June 15~~ July 16, 2020
+Submission deadline: ~~June 15~~ ~~July 16~~ July 23, 2020
 
 Notification: ~~July 15~~ August 16, 2020
 
