@@ -71,7 +71,7 @@ _deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.co
 
 Submission deadline: ~~June 15~~ ~~July 16~~ July 23, 2020
 
-Notification: ~~July 15~~ August 16, 2020
+Notification: ~~July 15~~ August 17, 2020
 
 Camera-ready deadline: ~~August 15~~ August 27, 2020
 
