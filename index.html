@@ -4,41 +4,53 @@
  
 <head>
   <title>Visualization for Communication (VisComm)</title>
-  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="./assets/css/w3.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,400,4008&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i&display=swap" rel="stylesheet">
+  <!-- <link href="./assets/css/font-awesome.min.css" rel="stylesheet"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="icon" href="./icon.png">
+  
+
 
   <style>
-    * {
+    body,h1,h2,h3,h4,h5,h6 {
       font-family: 'Roboto', sans-serif;
     }
+
       
     #banner {
-      background-color: rgb(48,48,48);
-      border-color: rgb(48,48,48);
+      background-color: #D6ECF8;
+      border-color: #FFFFFF;
       margin-top: 0;
       margin-bottom: 2em; 
       margin-left: 0;
       margin-right: 0;
       padding-left: 0;
       padding-right: 0; 
-      color: rgb(255,255,255);
+      color: #0765A3;
     } 
    
     #headerbox {
       width: 768px;
       margin-left: auto;
       margin-right: auto;
-      padding-top: 3em;
-      padding-bottom: 3em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      padding-left: 1em;
+      padding-right: 1em;
+      font-weight: bold;
     } 
     
     header > h2 {
       font-size: 16pt;
+      color : #0765A3;
     }
     
     body {
-      background-color: rgb(224,224,224);
+      background-color: #FFFFFF;;
       margin-top: 2em; 
       border: 0;
       padding-left: 0;
@@ -51,7 +63,23 @@
       margin-top: 2em;
       margin-left: auto;
       margin-right: auto;
-      width: 768px;  
+      padding-left: 2em;
+      padding-right: 2em;
+/*      width: 768px;  */
+    }
+
+    /* If the screen size is 768px wide or more, set the font-size of <div> to 80px */
+    @media screen and (min-width: 768px) {
+      section {
+        width: 768px;
+      }
+    }
+
+    /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+    @media screen and (max-width: 768px) {
+      section {
+        width: 100%;
+      }
     }
    
     .programsection + section {
@@ -59,18 +87,25 @@
       padding-top: 1em;
     } 
     
+    #project_title {
+      font-size: 26pt; 
+      color : #0765A3;
+      margin-top: 1em; 
+    }
    
     section > h1 {
       font-size: 18pt; 
+      color : #0765A3;
       margin-top: 1em; 
       border-bottom: solid; 
       border-bottom-width: 2px;
-      border-bottom-color: rgb(208,208,208);
+      border-bottom-color: #FFFFFF;;
     }
    
     section > h2 {
       clear: both;
       font-size: 14pt;
+      color : #0765A3;
       font-weight: bold;
       margin-top: 2em;
       margin-bottom: 0;
@@ -119,9 +154,9 @@
       background-color: rgb(255,255,255);
     }
     
-    img {
+/*    img {
       width: 150px; 
-    }
+    }*/
    
     em {
       font-family: "Open Sans",sans-serif;
@@ -138,17 +173,45 @@
 
 <body>
 
-<div id="banner">
-  <div id="headerbox">
-    <header>
-      <h1 id="project_title">Visualization for Communication (VisComm)</h1>
-      <h2 id="project_tagline">
-      </h2>
-    </header>
+
+
+<!-- <div id="banner">
+  <div id="headerbox"> 
+    <img src="logo.png" width="40%">
  </div>
+</div> -->
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top" id="banner">
+  <div class="w3-bar" id="headerbox" >
+    <a href="#summary"><img src="logo.png" width="40%"></a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-display-bottomright w3-hide-small w3-text-black w3-hide-medium w3-large w3-padding" style="margin-right: 8em;">
+      <a href="#important-dates" class="w3-bar-item w3-btn ">Impotant Dates</a>
+      <a href="#submissions" class="w3-bar-item w3-btn ">Submissions</a>
+      <a href="#archives" class="w3-bar-item w3-btn ">Archive</a>
+
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+
+    <a href="javascript:void(0)" class="w3-bar-item w3-btn w3-display-bottomright w3-hide-large w3-xxlarge" onclick="w3_open()" style="margin-right: 1em;">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
 </div>
 
-<section class="textsection">
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-white w3-card w3-animate-left w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="#important-dates" onclick="w3_close()" class="w3-bar-item w3-button">Important Dates</a>
+  <a href="#submissions" onclick="w3_close()" class="w3-bar-item w3-button">Submissions</a>
+  <a href="#archives" onclick="w3_close()" class="w3-bar-item w3-button">Archive</a>
+</nav>
+
+
+
+<section class="textsection" style="padding-top:128px" id="summary">
+  <h1 id="project_title">Visualization for Communication (VisComm)</h1>
   <h1>WORKSHOP SUMMARY</h1>
   
   <p>
@@ -202,7 +265,7 @@
 </section>
 
  
-<section class="textsection">
+<section class="textsection" id="submissions">
  
   <h1>SUBMISSIONS</h1>
 
@@ -258,7 +321,7 @@
 
 </section>
  
-<section class="textsection">
+<section class="textsection" id="important-dates">
   
   <h1>IMPORTANT DATES</h1>
 
@@ -293,7 +356,7 @@
     
 </section>
 
-<section class="textsection">
+<section class="textsection" id="organizers">
    
   <h1>ORGANIZERS</h1>
    
@@ -309,7 +372,7 @@
    
 </section>
  
-<section class="textsection">
+<section class="textsection" id="archives">
    
   <h1>ARCHIVE</h1>
   <p><a href="https://viscomm.io/2020/index.html">2020 schedule, papers and posters</a></p>
@@ -319,6 +382,26 @@
   <p><a href="https://viscomm.io/2018/schedule.html">2018 schedule, papers and posters</a></p>
    
 </section>
+
+<script>
+
+
+// Toggle between showing and hiding the sidebar when clicking the menu icon
+var mySidebar = document.getElementById("mySidebar");
+
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+  } else {
+    mySidebar.style.display = 'block';
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+    mySidebar.style.display = "none";
+}
+</script>
 
 </body>
   
