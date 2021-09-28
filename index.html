@@ -166,6 +166,14 @@
     del {
       text-decoration-style: double;
     }
+
+
+  .promo {
+    padding-top: 30cm;
+    margin-top: 30cm;
+  }
+
+
     
   </style>  
   
@@ -175,14 +183,8 @@
 
 
 
-<!-- <div id="banner">
-  <div id="headerbox"> 
-    <img src="logo.png" width="40%">
- </div>
-</div> -->
-
 <!-- Navbar (sit on top) -->
-<div class="w3-top" id="banner">
+<div class="w3-top w3-margin-bottom" id="banner">
   <div class="w3-bar" id="headerbox" >
     <a href="#summary"><img src="logo.png" width="30%"></a>
 
@@ -191,8 +193,9 @@
     
     <!-- Right-sided navbar links -->
     <div class="w3-display-bottomright w3-hide-small w3-text-black w3-hide-medium w3-large w3-padding" style="margin-right: 8em;">
+      <a href="#program" class="w3-bar-item w3-btn">Accepted Papers</a>
       <a href="#important-dates" class="w3-bar-item w3-btn ">Impotant Dates</a>
-      <a href="#submissions" class="w3-bar-item w3-btn ">Submissions</a>
+      <a href="#submissions" class="w3-bar-item w3-btn ">Contribute</a>
       <a href="#archives" class="w3-bar-item w3-btn ">Archive</a>
 
     </div>
@@ -205,16 +208,23 @@
 </div>
 
 <!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-white w3-card w3-animate-left w3-hide-large" style="display:none" id="mySidebar">
+<div class="w3-sidebar w3-bar-block w3-white w3-card w3-animate-left w3-hide-large" style="display:none" id="menuSidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="#program" onclick="w3_close()" class="w3-bar-item w3-button">Program</a>
   <a href="#important-dates" onclick="w3_close()" class="w3-bar-item w3-button">Important Dates</a>
-  <a href="#submissions" onclick="w3_close()" class="w3-bar-item w3-button">Submissions</a>
+  <a href="#submissions" onclick="w3_close()" class="w3-bar-item w3-button">Contribute</a>
   <a href="#archives" onclick="w3_close()" class="w3-bar-item w3-button">Archive</a>
-</nav>
+</div>
+
+<!-- Page content -->
+<div class="w3-content w3-padding-large w3-margin-top promo" id="promo">
+  <!-- Image (Panel Promo) -->
+  <br/><br/><br/><br/> <br/>
+  <img src="./panel-promo.png" alt="Building Bridges between Research & Practice: A Conversation with Steven Franconeri and Jen Christiansen" class="w3-image" width="1000" height="500">
+</div>
 
 
-
-<section class="textsection" style="padding-top:128px" id="summary">
+<section class="textsection" id="summary">
   <h1 id="project_title">Visualization for Communication (VisComm)</h1>
   <h1>WORKSHOP SUMMARY</h1>
   
@@ -238,6 +248,93 @@
  <p>Join <a href="https://groups.google.com/g/viscomm-workshop">our mailing list/google group</a>! We'll use it for general 
  discussion and updates around visualization for communication.</p>
  
+</section>
+
+<section class="textsection">
+  <h1 id="program"> ACCEPTED PAPERS</h1>
+
+  <div class="w3-row w3-margin">
+    <div class="w3-third">
+      <img src="./thumbnails/1005.png" style="width:100%;min-height:150px">
+    </div>
+    <div class="w3-twothird w3-container">
+      <p>
+        <em>Paper: </em>
+        <b><a href="https://osf.io/7cbsqvisc">Paper Maps: Improving the Readability of Scientific Papers via Concept Maps </a></b>
+        <br/>
+        Lorenzo Amabili and Nicole Sultanum
+      </p>
+      <p><em>Abstract:</em> Given the wealth of scientific publications, perusing papers is becoming a larger and more complex burden... 
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-margin">
+    <div class="w3-third">
+      <img src="./thumbnails/1008.png" style="width:100%;min-height:150px">
+    </div>
+    <div class="w3-twothird w3-container">
+      <p>
+        <em>Paper: </em>
+        <b><a href="https://osf.io/9dqn3/">Know Your Audience: Comprehension of Health Information Varies by Visual Format</a></b>
+        <br/>
+        Dr. Sabrina Mangal et al.
+        <!-- Dr. Sabrina Mangal, Dr. Meghan Reading, Leslie Park, Yujie Hai, Annie C Myers, Dr. Lydia S Dugdale, Parag Goyal, Lisa V. Grossman Liu, and Ruth M. Masterson Creber  -->
+      </p>
+      <p><em>Abstract:</em> Patient-reported outcomes provide key information about a patient’s health status... 
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-margin">
+    <div class="w3-third">
+      <img src="./thumbnails/1010.png" style="width:100%;min-height:150px">
+    </div>
+    <div class="w3-twothird w3-container">
+      <p>
+        <em>Visual Case Study: </em>
+        <b><a href="https://osf.io/yrhvn">Visualizing Student Behavior and Performance in an Online Course</a></b>
+        <br/>
+        Michael J Parker
+      </p>
+      <p>Abstract: Online learning has been an area of tremendous growth in recent years... 
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-margin">
+    <div class="w3-third">
+      <img src="./thumbnails/1013.png" style="width:100%;min-height:150px">
+    </div>
+    <div class="w3-twothird w3-container">
+      <p>
+        <em>Paper: </em>
+        <b><a href="https://osf.io/g8s2f/">Aesthetics for Communicative Visualization: a Brief Review</a></b>
+        <br/>
+        Maryam Riahi and Benjamin Watson
+      </p>
+      <p>Abstract: We present a brief and somewhat selective review of research on the applied value of aesthetics...  <br/>
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-margin">
+    <div class="w3-third">
+      <img src="./thumbnails/1015.png" style="width:100%;min-height:150px">
+    </div>
+    <div class="w3-twothird w3-container">
+      <p>
+        <em>Paper: </em>
+        <b><a href="https://osf.io/62swr/">Unfolding the Decision-Making Dynamics of News Visualization Production in China</a></b>
+        <br/>
+        Qian Ma
+      </p>
+      <p>Abstract: News visualization is a journalistic form that centers on delivering information through data visualizations... 
+      </p>
+    </div>
+  </div>
+
+
 </section>
 
 <section class="textsection">
@@ -271,7 +368,7 @@
  
 <section class="textsection" id="submissions">
  
-  <h1>SUBMISSIONS</h1>
+  <h1>CONTRIBUTE</h1>
 
   <p>VisComm has four submission tracks: short papers (research or position), visual case studies, and late-breaking works in progress. Selection criteria are clarity, relevance to the workshop, innovation, and quality of questions for attendees. </p>
 
@@ -401,7 +498,7 @@
 
 
 // Toggle between showing and hiding the sidebar when clicking the menu icon
-var mySidebar = document.getElementById("mySidebar");
+var mySidebar = document.getElementById("menuSidebar");
 
 function w3_open() {
   if (mySidebar.style.display === 'block') {
