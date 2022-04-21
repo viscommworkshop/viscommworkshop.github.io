@@ -2,14 +2,9 @@ body,h1,h2,h3,h4,h5,h6 {
   font-family: 'Roboto', sans-serif;
 }
 
-
-html {
-  scroll-behavior: smooth;
-}
   
 #banner {
-  /*background-color: #D6ECF8;*/
-  background-color: #F7F4B6;
+  background-color: #D6ECF8;
   border-color: #FFFFFF;
   margin-top: 0;
   margin-bottom: 2em; 
@@ -46,7 +41,6 @@ body {
 }
 
 section {
-  scroll-margin-top: 8rem; /*  accomodate for header  */
   text-align: left;
   margin-top: 2em;
   margin-left: auto;
