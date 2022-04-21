@@ -6,10 +6,19 @@ body,h1,h2,h3,h4,h5,h6 {
 html {
   scroll-behavior: smooth;
 }
+
+/* mouse over link */
+a:hover {
+  color: #F7901E;
+}
+
+.menu {
+  text-decoration: none;
+}
   
 #banner {
-  /*background-color: #D6ECF8;*/
-  background-color: #F7F4B6;
+  /*background-color: #D6ECF8; blue*/ 
+  background-color: #F7F4B6; yellow
   border-color: #FFFFFF;
   margin-top: 0;
   margin-bottom: 2em; 
