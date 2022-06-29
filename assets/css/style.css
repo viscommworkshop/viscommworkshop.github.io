@@ -18,7 +18,7 @@ a:hover {
   
 #banner {
   /*background-color: #D6ECF8; blue*/ 
-  background-color: #F7F4B6; yellow
+  background-color: #F7F4B6; /*yellow*/
   border-color: #FFFFFF;
   margin-top: 0;
   margin-bottom: 2em; 
@@ -30,7 +30,7 @@ a:hover {
 } 
 
 #headerbox {
-  width: 768px;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 1em;
