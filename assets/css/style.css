@@ -2,6 +2,11 @@ body,h1,h2,h3,h4,h5,h6 {
   font-family: 'Roboto', sans-serif;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  color : #0765A3;
+}
+
+
 
 html {
   scroll-behavior: smooth;
@@ -88,6 +93,10 @@ section {
   font-size: 26pt; 
   color : #0765A3;
   margin-top: 1em; 
+}
+
+.program{
+  margin-top: 2mm; 
 }
 
 section > h1 {
