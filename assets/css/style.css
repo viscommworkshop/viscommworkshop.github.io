@@ -1,184 +1,169 @@
-body,h1,h2,h3,h4,h5,h6 {
-  font-family: 'Roboto', sans-serif;
-}
+:root {
+      --primary-color: #0765A3;
+      --accent-color: #F7901E;
+      --highlight-color: #900D40;
+      --background-color: #ffffff;
+      --card-bg: #f5f7fa;
+      --font-main: 'Open Sans', sans-serif;
+      --font-header: 'Roboto', sans-serif;
+    }
 
-h1,h2,h3,h4,h5,h6 {
-  color : #0765A3;
-}
+    body {
+      font-family: var(--font-main);
+      background-color: var(--background-color);
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
 
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
 
+    .hero {
+      background-color: #f0f4f9;
+      text-align: center;
+      padding: 2rem 1rem;
+      border-bottom: 4px solid var(--primary-color);
+    }
 
-html {
-  scroll-behavior: smooth;
-}
+    .hero h1 {
+      font-family: var(--font-header);
+      font-size: 2.5rem;
+      color: var(--primary-color);
+      margin: 0.5rem 0;
+    }
 
-/* mouse over link */
-a:hover {
-  color: #F7901E;
-}
+    .hero p {
+      font-size: 1.2rem;
+      color: #555;
+      margin: 0.25rem 0;
+    }
 
-.menu {
-  text-decoration: none;
-}
-  
-#banner {
-  background-color: #D6ECF8; blue 
-  /*background-color: #F7F4B6; /*yellow*/*/
-  border-color: #FFFFFF;
-  margin-top: 0;
-  margin-bottom: 2em; 
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
-  padding-right: 0; 
-  color: #0765A3;
-} 
+    h1, h2 {
+      font-family: var(--font-header);
+      color: var(--primary-color);
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
 
-#headerbox {
-  width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-weight: bold;
-} 
+    h1 {
+      font-size: 2rem;
+    }
 
-header > h2 {
-  font-size: 16pt;
-  color : #0765A3;
-}
+    h2 {
+      font-size: 1.5rem;
+    }
 
-body {
-  background-color: #FFFFFF;;
-  margin-top: 2em; 
-  border: 0;
-  padding-left: 0;
-  padding-right: 0;
-  margin: 0;
-}
+    p, ul {
+      font-size: 1rem;
+      margin-bottom: 1rem;
+    }
 
-section {
-  scroll-margin-top: 8rem; /*  accomodate for header  */
-  text-align: left;
-  margin-top: 2em;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 2em;
-  padding-right: 2em;
-/*      width: 768px;  */
-}
+    ul {
+      padding-left: 1.5rem;
+    }
 
-/* If the screen size is 768px wide or more, set the font-size of <div> to 80px */
-@media screen and (min-width: 768px) {
-  section {
-    width: 768px;
-  }
-}
+    a {
+      color: var(--primary-color);
+      text-decoration: none;
+    }
 
-/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-@media screen and (max-width: 768px) {
-  section {
-    width: 100%;
-  }
-}
+    a:hover {
+      color: var(--accent-color);
+      text-decoration: underline;
+    }
 
-.programsection + section {
-  clear: both; 
-  padding-top: 1em;
-} 
+    .submission-types {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
 
-#project_title {
-  font-size: 26pt; 
-  color : #0765A3;
-  margin-top: 1em; 
-}
+    .submission-card {
+      background-color: var(--card-bg);
+      padding: 1rem;
+      border-left: 4px solid var(--primary-color);
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
 
-.program{
-  margin-top: 2mm; 
-}
+    .highlight {
+      font-weight: bold;
+      color: var(--highlight-color);
+    }
 
-section > h1 {
-  font-size: 18pt; 
-  color : #0765A3;
-  margin-top: 1em; 
-  border-bottom: solid; 
-  border-bottom-width: 2px;
-  border-bottom-color: #FFFFFF;;
-}
+    .footer {
+      margin-top: 2rem;
+      font-style: italic;
+      font-size: 0.95rem;
+    }
 
-section > h2 {
-  clear: both;
-  font-size: 14pt;
-  color : #0765A3;
-  font-weight: bold;
-  margin-top: 2em;
-  margin-bottom: 0;
-  padding-bottom: 0; 
-}
+    .sidebar-toggle {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      background-color: var(--primary-color);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      z-index: 1001;
+    }
 
-p, ul {
-  font-family: "Open Sans",sans-serif;
-  font-size: 11pt;
-  font-weight: 400; 
-  line-height: 1.5; 
-} 
+    .sidebar {
+      position: fixed;
+      top: 60px;
+      right: 0;
+      background: rgba(240, 240, 240, 0.95);
+      padding: 1rem;
+      border-radius: 8px 0 0 8px;
+      box-shadow: -2px 0 4px rgba(0,0,0,0.1);
+      font-size: 0.9rem;
+      width: 220px;
+      transition: transform 0.3s ease-in-out;
+      transform: translateX(100%);
+      z-index: 1000;
+    }
 
-.pres {
-  clear: both;
-  margin: 0; 
-  width: 100%;
-  padding: 0; 
-  vertical-align: top;
-  border-top: solid; 
-  border-top-color: rgb(224,224,224); 
-  border-top-width: 2.5em;
-  border-left: none;
-  border-right: none;
-  border-bottom: none;
-  font-family: "Open Sans",sans-serif;
-  font-size: 11pt;
-  font-weight: 400; 
-  line-height: 1.5; 
-}
+    .sidebar.open {
+      transform: translateX(0);
+    }
 
-.pres + section {
-  padding-top: 2.5em;
-  color: red;
-} 
+    .sidebar a {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: var(--primary-color);
+    }
 
-.pres + h2 {
-  padding-top: 2.5em;
-} 
-
-.imgbox {
-  width: 150px;
-  height: 150px;
-  float: left; 
-  margin-right: 1em;
-  background-color: rgb(255,255,255);
-}
-
-/*    img {
-  width: 150px; 
-}*/
-
-em {
-  font-family: "Open Sans",sans-serif;
-  font-style: italic;
-} 
-
-del {
-  text-decoration-style: double;
-}
+    .important-dates {
+      background-color: #f8fafd;
+      border-left: 6px solid var(--primary-color);
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin-top: 2rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
 
 
-.promo {
-padding-top: 30cm;
-margin-top: 30cm;
-}
+    @media (max-width: 768px) {
+      .container {
+        padding: 1rem;
+      }
 
-.blue {
-  color : #0765A3;
-}
+      h1 {
+        font-size: 1.6rem;
+      }
+
+      h2 {
+        font-size: 1.3rem;
+      }
+
+      .sidebar {
+        display: none;
+      }
+    }

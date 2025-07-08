@@ -1,292 +1,227 @@
 <!DOCTYPE html>
-
-<html>
- 
+<html lang="en">
 <head>
-  <title>Visualization for Communication (VisComm)</title>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="./assets/css/w3.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,400,4008&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i&display=swap" rel="stylesheet">
-  <!-- <link href="./assets/css/font-awesome.min.css" rel="stylesheet"> -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="icon" href="./icon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="./assets/css/style.css" rel="stylesheet">
+  <title>VisComm 2025</title>
 </head>
-
 <body>
-
-
-
-<!-- Navbar (sit on top) -->
-<div class="w3-top w3-margin-bottom" id="banner">
-  <div class="w3-bar" id="headerbox">
-    <a href="#"><img src="./logo.png" width="25%"></a>
-
-    <!-- Right-sided navbar links -->
-    <div class="w3-display-topright w3-padding w3-small"> Logo by <a href="https://www.alliepackard.me/">Allie Packard</a></div> 
-    
-    <!-- Right-sided navbar links -->
-    <div class="w3-display-bottomright w3-hide-small w3-text-black w3-hide-medium w3-medium w3-padding" style="margin-right: 8em; ">
-      <a href="#program" class="w3-bar-item w3-btn">Program</a>
-      <a href="#important-dates" class="w3-bar-item menu">Important Dates</a>
-      <a href="#submissions" class="w3-bar-item menu">Contribute</a>
-      <a href="#archives" class="w3-bar-item menu">Archive</a>
-
-    </div>
-    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
-
-    <a href="javascript:void(0)" class="w3-bar-item w3-btn w3-display-bottomright w3-hide-large w3-xxlarge" onclick="w3_open()" style="margin-right: 1em;">
-      <i class="fa fa-bars"></i>
-    </a>
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰ Menu</button>
+  <div class="sidebar" id="sidebar">
+    <strong>Jump to:</strong>
+    <a href="#submission-types">Submission Types</a>
+    <a href="#important-dates">Important Dates</a>
+    <a href="#organizers">Organizers</a>
   </div>
-</div>
 
-<!-- Sidebar on small screens when clicking the menu icon -->
-<div class="w3-sidebar w3-bar-block w3-white w3-card w3-animate-left w3-hide-large" style="display:none" id="menuSidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-  <a href="#program" onclick="w3_close()" class="w3-bar-item w3-button">Program</a>
-  <a href="#important-dates" onclick="w3_close()" class="w3-bar-item w3-button">Important Dates</a>
-  <a href="#submissions" onclick="w3_close()" class="w3-bar-item w3-button">Contribute</a>
-  <a href="#archives" onclick="w3_close()" class="w3-bar-item w3-button">Archive</a>
-</div>
-
-<!-- Page content -->
-
-
-
-<section class="textsection" id="summary" style="margin-top: 100pt;">
-
-  <h1 id="project_title">Visualization for Communication (VisComm)</h1>
-  <h1>WORKSHOP SUMMARY</h1>
-  
-<!--   <p>
-    Most people encounter visualization not through exploratory analysis, but as a tool for communication and public engagement. News organizations like The New York Times publish interactive visual stories covering political trends, climate change, and public budgets. Visualization practitioners and bloggers contribute regularly to public discourse through compelling visual breakdowns of current events. Tools like D3, Datawrapper, and Tableau Public have democratized visualization design and enabled a wide variety of public-facing work.
-  </p> -->
-
-  <p> VisComm brings together practitioners and researchers from a wide range of disciplines to address pressing questions about how data visualization is evolving in our everyday lives. We particularly encourage participation from journalists, designers, health communicators, policy advocates, educators, and others who may not typically attend <a href="http://ieeevis.org/">IEEE VIS</a> but who play a vital role in shaping how data reaches the public.
-  </p>
-
-  <p> This year, the VisComm workshop places particular emphasis on visualization for public data dissemination. We are especially interested in how visualizations are used in public service announcements (PSAs), educational exhibits, museum-like installations, physical visualizations, and other non-traditional print or digital formats. These approaches aim not only to inform, but also to raise awareness, provoke reflection, and spark behavior change. We welcome discussions about the design, deployment, and impact of such visualizations in real-world contexts. </p>
-
-  <p> Another key focus of the workshop is visualization literacy: how people interpret, trust, and act on visual information. As visualizations become increasingly embedded in civic, health, and environmental communication, it is essential to understand the diverse audiences they serve and how to design for accessibility and comprehension.
-  </p>
-
-  
-
-
-  <h1>DATE AND LOCATION</h1>
-  
-  <p>The workshop will be held at the <a href=https://maps.app.goo.gl/SA5U726D8FdAYxrC7>Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Vienna, Austria</a>, <em> on Sunday, November 2, 2025 from 2:00 PM - 5:30 PM (GMT+1).</em></p> 
-
-</section>
-
-<section id="program" class="textsection w3-border">
- 
-</section>
-
-
-
-
-
-<section class="textsection">
- 
-  <h1>WORKSHOP TOPICS</h1>
-  
-
-  <p>
-  VisComm invites contributions that explore how data visualization can effectively communicate to broad public audiences across a variety of contexts and formats. This year, we especially welcome work related to public data dissemination, including PSAs, museum exhibits, physical visualizations, and other non-traditional or informal media. We seek submissions addressing (but not limited to) the following topics: </p>
-
-  <ul>
-    <li>Designing for diverse audiences with varying levels of visualization literacy and data fluency</li>
-
-    <li>Evaluating the success of communicative visualizations through behavioral studies, analytics, or in-situ observations</li>
-
-    <li>Effective strategies for visualizing complex data in constrained or non-traditional formats (e.g., posters, installations, mobile media)</li>
-
-    <li>The role of metaphor, affect, narrative, and persuasion in public-facing visualization</li>
-
-    <li>Tools and workflows for practitioners creating data visualizations for awareness, education, or advocacy</li>
-
-    <li>Emerging application domains for communicative visualization, including public health, climate, civic engagement, and science communication</li>
-
-    <li>Combating misinformation and supporting trust in visual communication</li>
-
-    <li>Case studies from data journalism, advocacy campaigns, exhibitions, or public outreach efforts</li>
-
-</ul>
-
-  <p>We encourage submissions from researchers, designers, journalists, health communicators, educators, museum professionals, and others who use visualization to inform or inspire broad audiences. </p>
-
-
-
-</section>
-
- 
-<section class="textsection" id="submissions">
- 
-  <h1>CONTRIBUTE</h1>
-
-  <p>VisComm has four submission tracks: short papers (research or position), visual case studies, and late-breaking works in progress. Selection criteria are clarity, relevance to the workshop, innovation, and quality of questions for attendees. </p>
-
-  <h2>Short Research Papers</h2>
- 
-  <p>We invite submission of research papers <b>between 2 and 6 pages long</b>, including references, with length matching content. Research papers will be reviewed based on how well claims are supported by evidence. Submissions are expected to include all materials and data needed to replicate and reproduce any figures, analyses, and methods. If anything cannot be publicly shared (e.g., for data privacy concerns), state the reason in the paper.</p>
-
-  <h2>Short Position Papers</h2>
- 
-  <p>We invite submission of position papers <b>between 2 and 6 pages long</b>, including references, with length matching content. Position papers are problem discussions or statements describing the author's relevant experience and ideas with regards to methods and methodologies for visualization research, and in particular the focus topic of the workshop. Position papers will be selected according to their importance and relevance for the workshop topics and how well they will fit the planned discussions.</p>
-
-
-  <h2>Visual Case Studies</h2>
- 
-  <p>We invite practitioners to submit a <b>one-page</b> write-up together with a link to an online piece or a short video. The write-up should explain what you made, why you made it, outcome/responses (both expected and unexpected), etc. The goal is to show the work of journalists, designers, people working for governments or non-profits, etc., who use data to inform and communicate.</p>
-
-  
-  <h2>Late-Breaking Works in Progress</h2>
- 
-  <p>The purpose of this category is to present work in progress and receive feedback from attendees. </p>
-
-  <p>For research that is in progress, this session will provide a supportive atmosphere for helpful feedback and fresh perspectives on your aims and/or methods. Recommended structure for your <b>one-page</b> submission is: introduction, preliminary methods, preliminary findings (if applicable), and questions for attendees. </p>
-
-  <p>For practitioners, this is an opportunity to present contributions that showcase innovative visualizations or provide provocations for new ideas to emerge. Your <b>one-page</b> brief should include project background, design objectives, methods or design process, links to visualization design alternatives, preliminary findings (if available), and questions for attendees.</p>
-
-</section>
-
-<section class="textsection">
- 
-  <h1>FORMATTING AND SUBMITTING</h1>
-
-  <p>Your paper, abstract or write-up should take the form of a PDF file, formatted in the <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">VGTC conference style</a>, which has both LaTeX and MS Word templates. However, please replace the statement about IEEE copyright and reprints with the following text: <em>"This work is licensed under a Creative Commons Attribution 4.0 International License."</em></p>
-
-  <p>All submissions should contain full author names and affiliations. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the <a href="http://ieeevis.org">IEEE VIS website.</a></p>
-
-  <ul>
-  <li><strong>Short Papers and Visual Case Studies: </strong><a href="https://new.precisionconference.com/vgtc">SUBMIT ONLINE USING PCS</a>. Choose the VGTC Society, then VIS 2025 Conference, and then VisComm track. </li>
-
-  <li><strong>Late-Breaking Works in Progress : </strong><a href="https://forms.gle/BLUiQRAd7evzGGZv7">SUBMIT ONLINE USING GOOGLE FORMS</a>. </li>
-  </ul>
-
-</section>
-
-
-<section class="textsection">
- 
-  <h1>ACCEPTED SUBMISSIONS</h1>
-  <p>All accepted submissions will be posted on the workshop website.</p>
-
-  <p>We expect authors of accepted submissions to post their documents on the <a href="https://osf.io/preprints/">Open Science Framework's preprint archive</a>, using the instructions we send. Authors are welcome to post an initial version of their submission earlier. Our OSF workshop papers are not considered archival by IEEE, and may be published elsewhere at a later date. However, we understand that authors from non-engineering disciplines may have different prior publication standards; please contact the chairs if you must publish your accepted submission differently.</p>
-
-  <p>Presenting authors can make use of a reduced workshop-only registration fee at <a href="http://ieeevis.org/"> IEEE VIS.</a> Additionally, the <a href="http://ieeevis.org/year/2025/info/inclusion-and-diversity/diversity-scholarship"> IEEE VIS Inclusivity & Diversity Scholarship Committee</a> provides complimentary conference registration based on need.</p>
-
-
-</section>
- 
-<section class="textsection" id="important-dates">
-  
-  <h1>IMPORTANT DATES</h1>
-
-  <p><em>deadlines occur at 11:59 PM in the <a href="https://www.google.com/search?q=time+in+baker+island">last timezone on Earth</a>.</em></p>
-
-  <h2>Short Papers and Visual Case Studies</h2>
-  <ul>
-    <li>Submission deadline: July 15, 2025 </li>
-
-    <li>Notification: August 15, 2025</li>
-
-    <li>Camera-ready deadline: September 1, 2025</li>
-  </ul>
-
-
-  <h2>Late-Breaking Works in Progress</h2>
-  <ul>
-    <li>Submission deadline: September 15, 2025</li>
-
-    <li>Notification: September 28, 2025</li>
-
-    <li>Camera-ready deadline: October 5, 2025</li>
-  </ul>
-
-  
-  <h2>All Submission Tracks </h2>
-  <ul>
-    <li>Speaker schedule available: October 11, 2025</li>
-
-    <li>Workshop: October 22 or 23, 2025</li>
-  </ul>
-    
-</section>
-
-<section class="textsection" id="community">
-   
-  <h1>VISCOMM COMMUNITY</h1>
-   
-  <p>At VisComm, we want to provide avenues for collaboration and networking. We are creating a directory of people willing to be contacted about their areas of expertise. The directory will be unveiled during VIS week and thereafter will be available to anyone who signs up for the VisComm email list. <a href="https://forms.gle/FWYGEqKA5eu44NRW9">Follow this link to add your entry to the directory</a></p>
-</section>
-
-<section class="textsection" id="organizers">
-   
-  <h1>ORGANIZERS</h1>
-   
-  <p>The quickest way to contact VisComm's organizers is via their shared email, <a href="mailto:viscomm_chairs@googlegroups.com">viscomm_chairs@googlegroups.com</a> </p>
-
-  <p>
-    <a href="https://engineering.wustl.edu/faculty/Alvitta-Ottley.html">Alvitta Ottley</a>, Washington University in St. Louis <br/>
-    <a href="https://policyviz.com/">Jonathan Schwabish</a>, Urban Institute <br/>
-    <a href="https://paulcparsons.com/">Paul Parsons</a>, Purdue University
-  </p>
-
-  <h1>STUDENT COMMITTEE</h1>
-  <p>
-    <a href="https://abaigele.github.io/">Ali Baigelenov</a>, Purdue University <br/>
-    <a href="https://dilshadur.owlstown.net/">Md Dilshadur Rahman</a>, University of Utah <br/>
-    <a href="https://pcs07.webflow.io/">Prakash Shukla</a>, Purdue University <br/>
-    <a href="https://iamsaugatpandey.github.io/">Saugat Pandey</a>, Washington University in St. Louis 
-  </p>
-
-</section>
-
-<section id="reviewers" class="textsection">
-</section>
- 
-
-<section class="textsection" id="archives">
-  <h1>ARCHIVE</h1>
-  <p>
-  <a href="./2023/index.html">2023 schedule, papers and posters</a> <br/>
-  <a href="./2022/index.html">2022 schedule, papers and posters</a> <br/>
-  <a href="./2021/index.html">2021 schedule, papers and posters</a><br/>
-  <a href="./2020/index.html">2020 schedule, papers and posters</a><br/>
-  <a href="./2019/index.html">2019 schedule, papers and posters</a><br/>
-  <a href="https://viscomm.io/2018/schedule.html">2018 schedule, papers and posters</a>
-  </p>
-   
-</section>
-
-
-
-<script>
-  // Toggle between showing and hiding the sidebar when clicking the menu icon
-  var mySidebar = document.getElementById("menuSidebar");
-
-  function w3_open() {
-    if (mySidebar.style.display === 'block') {
-      mySidebar.style.display = 'none';
-    } else {
-      mySidebar.style.display = 'block';
+  <script>
+    function toggleSidebar() {
+      document.getElementById('sidebar').classList.toggle('open');
     }
-  }
+  </script>
 
-  // Close the sidebar with the close button
-  function w3_close() {
-      mySidebar.style.display = "none";
-  }
+  <div class="hero">
+<div style="text-align: center; padding-top: 1rem;">
+  <img src="icon.png" alt="VisComm Logo" style="width: 60px; height: auto; margin-bottom: 1rem;">
+</div>
+<h1>VisComm 2025</h1>
+    <p>Workshop on Visualization for Communication</p>
+    <p><strong>November 2, 2025 · Vienna, Austria</strong></p>
+  </div>
 
 
 
-</script>
+
+  <div class="container">
+    <p><strong>Calling all visual communicators!</strong> VisComm brings together practitioners and researchers from a wide range of disciplines to address pressing questions about how data visualization is evolving in our everyday lives. We particularly encourage participation from journalists, designers, health communicators, policy advocates, educators, and others who may not typically attend <a href="http://ieeevis.org/">IEEE VIS</a> but who play a vital role in shaping how data reaches the public.</p>
+
+    <h2>Workshop Focus</h2>
+    <p>This year’s theme is <span class="highlight">Elevating the Art of Public Data Visualization</span>. We’re especially interested in work that explores visualizations in public service announcements, exhibits, physical formats, and other non-traditional media—visuals that aim to raise awareness, provoke reflection, or spark behavior change. We also emphasize the often-overlooked influence of <strong>style guides</strong> and design standards in shaping how public audiences perceive and trust visual content. Understanding how people interpret, trust, and act on visual information in real-world contexts remains a core concern.</p>
+
+    <h2>Topics of Interest</h2>
+    <ul>
+      <li>The development and use of style guides for public-facing data visualization</li>
+      <li>Designing for diverse audiences with varying visualization literacy</li>
+      <li>Evaluating visualizations through behavioral studies or in-situ use</li>
+      <li>Strategies for communicating complex data in constrained formats</li>
+      <li>The role of metaphor, narrative, emotion, and persuasion</li>
+      <li>Tools and workflows for awareness, education, or advocacy</li>
+      <li>Emerging domains like public health, climate, and civic engagement</li>
+      <li>Trust, misinformation, and responsible visual communication</li>
+      <li>Case studies from journalism, advocacy, and public outreach</li>
+    </ul>
+
+    <h2>Date and Location</h2>
+  
+    <p>The workshop will be held at the <a href=https://maps.app.goo.gl/SA5U726D8FdAYxrC7>Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Vienna, Austria</a>, <em> on Sunday, November 2, 2025 from 2:00 PM - 5:30 PM (GMT+1).</em></p> 
+    
+
+    <h2 id="submission-types">Submission Types</h2>
+    <div class="submission-types">
+      <div class="submission-card">
+        <strong>Short Research Papers</strong>
+        <p>2–6 pages. Present original research with reproducible, evidence-based claims.</p>
+      </div>
+      <div class="submission-card">
+        <strong>Short Position Papers</strong>
+        <p>2–6 pages. Share critical perspectives or methods relevant to public-facing visualization.</p>
+      </div>
+      <div class="submission-card">
+        <strong>Visual Case Studies</strong>
+        <p>1-page + media. Showcase real-world work, including process, goals, and impact.</p>
+      </div>
+      <div class="submission-card">
+        <strong>Late-Breaking Work</strong>
+        <p>1-page. Share early-stage ideas or practices and gather feedback from attendees.</p>
+      </div>
+    </div>
+
+
+    <h3>Short Research Papers</h3>
+    <p>We invite submission of research papers <strong>between 2 and 6 pages long</strong>, including references, with length matching content. Research papers will be reviewed based on how well claims are supported by evidence. Submissions are expected to include all materials and data needed to replicate and reproduce any figures, analyses, and methods. If anything cannot be publicly shared (e.g., for data privacy concerns), state the reason in the paper.</p>
+
+    <h3>Short Position Papers</h3>
+    <p>We invite submission of position papers <strong>between 2 and 6 pages long</strong>, including references. Position papers are problem discussions or statements describing the author's relevant experience and ideas regarding methods and methodologies for visualization research, particularly around the workshop theme. They will be selected for relevance, importance, and how well they support planned discussions.</p>
+
+    <h3>Visual Case Studies</h3>
+    <p>We invite practitioners to submit a <strong>one-page</strong> write-up along with a link to an online piece or a short video. The write-up should explain what was made, why it was made, and its outcomes or responses—both expected and unexpected. Ideal for journalists, designers, public sector workers, and advocates.</p>
+
+    <h3>Late-Breaking Works in Progress</h3>
+    <p>This category is for early-stage work and contributions that would benefit from community feedback. </p>
+    <p><strong>For researchers:</strong> Suggested structure includes: introduction, preliminary methods, early findings (if any), and key questions for attendees.</p>
+    <p><strong>For practitioners:</strong> Include project background, design goals, process/methods, and links to any prototypes or alternatives. Share insights and pose open questions to participants.</p>
+
+    <h2>Formatting and Submission Instructions</h2>
+    <p>All submissions must be in PDF format and follow the <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">VGTC conference style</a>, available in LaTeX and MS Word. Replace the IEEE copyright statement with: <em>"This work is licensed under a Creative Commons Attribution 4.0 International License."</em></p>
+
+    <p>Submissions must include full author names and affiliations. Optional short videos (max 5 minutes) are welcome. Submissions will be juried by the workshop organizers. At least one author per accepted submission must register for IEEE VIS 2025, even if only attending the workshop.</p>
+
+    <ul>
+      <li><strong>Short Papers and Visual Case Studies:</strong> <a href="https://new.precisionconference.com/vgtc">Submit via PCS</a> → VGTC Society → VIS 2025 Conference → VisComm Track</li>
+      <li><strong>Late-Breaking Works:</strong> <a href="https://forms.gle/BLUiQRAd7evzGGZv7">Submit via Google Forms</a></li>
+    </ul>
+
+    
+    <h2>Accepted Submissions</h2>
+
+    <p>All accepted submissions will be posted on the workshop website.</p>
+    <p>Authors of accepted submissions may choose whether to archive their work on <a href="https://ieeexplore.ieee.org/">IEEE Xplore</a> or instead post it on the <a href="https://osf.io/preprints/">Open Science Framework's preprint archive</a>, following the instructions we provide. OSF workshop papers are not considered archival by IEEE and may be published elsewhere at a later date. We welcome early posting of papers and understand that some authors—particularly those from non-engineering fields—may have different norms around prior publication. Please contact the chairs with any questions about publication preferences or requirements.</p>
+
+
+    <p>Presenting authors can make use of a reduced workshop-only registration fee at <a href="http://ieeevis.org/">IEEE VIS</a>. Additionally, the <a href="http://ieeevis.org/year/2025/info/inclusion-and-diversity/diversity-scholarship">IEEE VIS Inclusivity & Diversity Scholarship Committee</a> provides complimentary conference registration based on need.</p>
+
+    <h2 id="important-dates">Important Dates</h2>
+        <p><em>Deadlines occur at 11:59 PM in the <a href="https://www.google.com/search?q=time+in+baker+island">last timezone on Earth</a>.</em></p>
+
+        <h3>Short Papers and Visual Case Studies</h3>
+        <ul>
+          <li>Submission deadline: July 15, 2025</li>
+          <li>Notification: August 15, 2025</li>
+          <li>Camera-ready deadline: September 1, 2025</li>
+        </ul>
+
+        <h3>Late-Breaking Works in Progress</h3>
+        <ul>
+          <li>Submission deadline: September 15, 2025</li>
+          <li>Notification: September 28, 2025</li>
+          <li>Camera-ready deadline: October 5, 2025</li>
+        </ul>
+
+        <h3>All Submission Tracks</h3>
+        <ul>
+          <li>Speaker schedule available: October 11, 2025</li>
+          <li>Workshop: October 22 or 23, 2025</li>
+        </ul>
+
+    <h2 id="organizers">Oganizers</h2>
+         
+        <p>The quickest way to contact VisComm's organizers is via their shared email, <a href="mailto:viscomm_chairs@googlegroups.com">viscomm_chairs@googlegroups.com</a> </p>
+
+        <p>
+          <a href="https://engineering.wustl.edu/faculty/Alvitta-Ottley.html">Alvitta Ottley</a>, Washington University in St. Louis <br/>
+          <a href="https://policyviz.com/">Jonathan Schwabish</a>, Urban Institute <br/>
+          <a href="https://paulcparsons.com/">Paul Parsons</a>, Purdue University<br/>
+          <a href="https://abaigele.github.io/">Ali Baigelenov</a>, Purdue University <br/>
+          <a href="https://dilshadur.owlstown.net/">Md Dilshadur Rahman</a>, University of Utah <br/>
+          <a href="https://pcs07.webflow.io/">Prakash Shukla</a>, Purdue University <br/>
+          <a href="https://iamsaugatpandey.github.io/">Saugat Pandey</a>, Washington University in St. Louis 
+        </p>
+
+
+  </div>
+
+
+      <section class="container" id="archives">
+        <h1>Archive</h1>
+        <p>
+        <a href="./2023/index.html">2023 schedule, papers and posters</a> <br/>
+        <a href="./2022/index.html">2022 schedule, papers and posters</a> <br/>
+        <a href="./2021/index.html">2021 schedule, papers and posters</a><br/>
+        <a href="./2020/index.html">2020 schedule, papers and posters</a><br/>
+        <a href="./2019/index.html">2019 schedule, papers and posters</a><br/>
+        <a href="https://viscomm.io/2018/schedule.html">2018 schedule, papers and posters</a>
+        </p>
+         
+      </section>
 
 </body>
-  
+
+
+<!-- 
+<body>
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰ Menu</button>
+  <div class="sidebar" id="sidebar">
+    <strong>Jump to:</strong>
+    <a href="#submission-types">Submission Types</a>
+    <a href="#important-dates">Important Dates</a>
+    <a href="#organizers">Organizers</a>
+  </div>
+
+  <script>
+    function toggleSidebar() {
+      document.getElementById('sidebar').classList.toggle('open');
+    }
+  </script>
+
+  <header>
+    <img src="icon.png" alt="VisComm Logo" style="width: 80px; height: auto;">
+    <div>
+      <h1 style="margin: 0; font-size: 2rem;">VisComm 2025: Call for Participation</h1>
+      <h2 class="highlight" style="margin: 0; font-size: 1.25rem;">Theme: Elevating the Art of Public Data Visualization</h2>
+    </div>
+  </header>
+
+  <p><strong>🎨 Calling all visual communicators!</strong> Have you created a cool vis for the public—in a PSA, a museum, a sidewalk, or a story? VisComm 2025 invites you to join our growing community of designers, journalists, educators, researchers, and communicators exploring how data visualization informs, inspires, and drives change.</p>
+
+  <h2>Workshop Focus</h2>
+  <p>This year’s theme is <span class="highlight">Elevating the Art of Public Data Visualization</span>. We’re especially interested in work that explores visualizations in public service announcements, exhibits, physical formats, and other non-traditional media—visuals that aim to raise awareness, provoke reflection, or spark behavior change. We also emphasize the often-overlooked influence of <strong>style guides</strong> and design standards in shaping how public audiences perceive and trust visual content. Understanding how people interpret, trust, and act on visual information in real-world contexts remains a core concern.</p>
+
+  <h2 id="submission-types">Submission Types</h2>
+  <div class="submission-types">
+    <p><strong>VisComm welcomes four types of submissions:</strong></p>
+    <ul>
+      <li><strong>Short Research Papers (2–6 pages):</strong> Present original research, with emphasis on reproducibility and evidence-based claims.</li>
+      <li><strong>Short Position Papers (2–6 pages):</strong> Share reflective, critical, or methodological perspectives relevant to public-facing visualization.</li>
+      <li><strong>Visual Case Studies (1-page + media):</strong> Showcase real-world work with a short write-up and link to an example or video.</li>
+      <li><strong>Late-Breaking Work (1-page):</strong> Share early-stage research or practice for feedback and community discussion.</li>
+    </ul>
+    <p><em>Selection criteria include clarity, relevance, innovation, and quality of questions raised for the workshop audience.</em></p>
+  </div>
+
+  <h2>Topics of Interest</h2>
+  <ul>
+    <li>Designing for diverse audiences with varying visualization literacy</li>
+    <li>Evaluating visualizations through behavioral studies or in-situ use</li>
+    <li>Strategies for communicating complex data in constrained formats</li>
+    <li>The role of metaphor, narrative, emotion, and persuasion</li>
+    <li>Tools and workflows for awareness, education, or advocacy</li>
+    <li>Emerging domains like public health, climate, and civic engagement</li>
+    <li>Trust, misinformation, and responsible visual communication</li>
+    <li>Case studies from journalism, advocacy, and public outreach</li>
+    <li><strong>The development and use of style guides for public-facing data visualization</strong></li>
+  </ul>
+
+  <p class="footer">Submit your work and help shape the future of public-facing data visualization! Visit [Insert Submission Link] for full details.</p>
+</body> -->
 </html>
