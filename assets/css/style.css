@@ -6,6 +6,8 @@
       --card-bg: #f5f7fa;
       --font-main: 'Open Sans', sans-serif;
       --font-header: 'Roboto', sans-serif;
+      --program-bg: #f5f7fa;
+      --program-border: #0765A3;
     }
 
     body {
@@ -42,7 +44,7 @@
       margin: 0.25rem 0;
     }
 
-    h1, h2 {
+    h1, h2, h3 {
       font-family: var(--font-header);
       color: var(--primary-color);
       margin-top: 1.5rem;
@@ -147,6 +149,22 @@
       border-radius: 8px;
       margin-top: 2rem;
       box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+
+    .program-section {
+      background-color: var(--program-bg);
+      padding: 2rem;
+      border: 2px solid var(--program-border);
+      border-radius: 10px;
+      margin-top: 2rem;
+    }
+
+
+    .program-section pre {
+      white-space: pre-wrap;
+      font-family: var(--font-main);
+      font-size: 1rem;
+      line-height: 1.5;
     }
 
 
